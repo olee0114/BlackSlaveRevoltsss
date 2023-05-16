@@ -1,0 +1,965 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.16604,-10.91755 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1835",
+    "Place":"Bahia, Brazil",
+    "Revolt Name":"",
+    "Description":"Bahia was a very interesting place in the 1830's, 40% of the population was enslaved; 40% were free Blacks and 20% was white.  There were also a sizeable number of Muslims from West Africa and their Islamic practice helped them organize.  Their goal was to take over the city but the plot was revealed by a Black woman so they lost the element of surprise.  Although the leaders were never identified, the government responded with harsh punishments of deportation, flogging, imprisoment and execution.  One slave received 1,000 lashes, fifty a day! The Brazilians had to use a firing squad since they couldn't find a hangman! Nicole von Germeten in  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006, 39-40.",
+    "Description_NarrativeForPopup":"Bahia was a very interesting place in the 1830's, 40% of the population was enslaved; 40% were free Blacks and 20% was white.  There were also a sizeable number of Muslims from West Africa and their Islamic practice helped them organize.  Their goal was to take over the city but the plot was revealed by a Black woman so they lost the element of surprise.  Although the leaders were never identified, the government responded with harsh punishments of deportation, flogging, imprisoment and execution.  One slave received 1,000 lashes, fifty a day! The Brazilians had to use a firing squad since they couldn't find a hangman! Nicole von Germeten in  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006, 39-40.",
+    "Citations":"",
+    "Resource Links":"http://www.africandiasporastudies.com/downloads/bahia_slave_revolt.pdf  https://en.wikipedia.org/wiki/Mal%C3%AA_revolt",
+    "Long and Lat":"-10.91755, -41.16604",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1yIITDAe8VAxB15Ntb8AjbR3w7OxCwbje",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.13884,18.42112 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1821",
+    "Place":"Bayamon and San Juan, Puerto Rico",
+    "Revolt Name":"Xiorro’s Conspiracy",
+    "Description":"In July 1821 Xiorro planned a conspiracy against the slave masters in government of Puerto Rico. The plan was that several slaves were to escape from various plantations and on themselves with cutlasses and swords that were hidden in the fields(insert image 1). The slaves then captured the city of Bayamo and burned the city down and killed everyone who was not black. After that they would unite with slaves from a joining towns and invade the capital of San Juan where they would to declare Xiorro’s as their king( insert image 2). A Royal slave divulged the plans in exchange for 500 pesos and his freedom.  The Mayor mobilized 500 soldiers a total of 61 slaves were imprisoned 17 were punished (insert image 3). Source: Originalpeople.org",
+    "Description_NarrativeForPopup":"In July 1821 Xiorro planned a conspiracy against the slave masters in government of Puerto Rico. The plan was that several slaves were to escape from various plantations and on themselves with cutlasses and swords that were hidden in the fields(insert image 1). The slaves then captured the city of Bayamo and burned the city down and killed everyone who was not black. After that they would unite with slaves from a joining towns and invade the capital of San Juan where they would to declare Xiorro’s as their king( insert image 2). A Royal slave divulged the plans in exchange for 500 pesos and his freedom.  The Mayor mobilized 500 soldiers a total of 61 slaves were imprisoned 17 were punished (insert image 3). Source: Originalpeople.org",
+    "Citations":"Image 2: https://commons.wikimedia.org/wiki/File:AMH-6724-KB_View_of_Puerto_Rico.jpg View of Puerto Rico (From Atlas of Mutual Heritage. Public domain)\nImage 3: https://muninnsmemory.com/2017/03/05/hush/ (From Pixabay)",
+    "Resource Links":"",
+    "Long and Lat":"18.42112, -66.13884",
+    "Long and Lat Precise or Approximation":"Approximation",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1-i5NnIHrNCYofMzUH0wVU-oArKtBNOuw",
+    "Notes":"image 1 citation missing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.066667,17.183333 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y?",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1820",
+    "Place":"Belize",
+    "Revolt Name":"",
+    "Description":"\"1820 Revolt In 1819 Superintendent George Arthur reported that there was brewing tension between the slaves and their masters at Christmas and it wasn’t before long that the last major slave revolt occurred in 1820. In a letter to Earl Bathurst, Superintendent Arthur reported( insert image) “a considerable number of slaves” had organized a group at the Belize River and were well armed and had already created disturbances and offenses. Arthur travelled there in hopes of finding a middle ground with the slaves through a “milder means of persuasion” and “without having to recourse to military force”. The rebels had destroyed some cattle and robbed two houses. Martial Law was proclaimed and a reward was given for the apprehension of the slaves. It was at this time that slaves Will and Sharper were believed to be leaders of the revolt. Almost a month after the revolt started it was over and Martial Law was ended.\" http://belizehistoryassociation.org/wp-content/uploads/2015/05/Slavery-and-Emancipation-in-Bz-by-ISCR-NICH.pdf",
+    "Description_NarrativeForPopup":"\"1820 Revolt In 1819 Superintendent George Arthur reported that there was brewing tension between the slaves and their masters at Christmas and it wasn’t before long that the last major slave revolt occurred in 1820. In a letter to Earl Bathurst, Superintendent Arthur reported( insert image) “a considerable number of slaves” had organized a group at the Belize River and were well armed and had already created disturbances and offenses. Arthur travelled there in hopes of finding a middle ground with the slaves through a “milder means of persuasion” and “without having to recourse to military force”. The rebels had destroyed some cattle and robbed two houses. Martial Law was proclaimed and a reward was given for the apprehension of the slaves. It was at this time that slaves Will and Sharper were believed to be leaders of the revolt. Almost a month after the revolt started it was over and Martial Law was ended.\" http://belizehistoryassociation.org/wp-content/uploads/2015/05/Slavery-and-Emancipation-in-Bz-by-ISCR-NICH.pdf",
+    "Citations":"Image: https://picryl.com/media/negroes-just-landed-from-a-slave-ship-83be03  Negroes just landed from a slave ship (New York Public Library) Public domain",
+    "Resource Links":"",
+    "Long and Lat":"17.183333, -89.066667",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1vpkrbKMSknqI5rTlHnZfx9bU_M3tWhmw",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -50.82361,-0.46194 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y?",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1816-30",
+    "Place":"Brazil",
+    "Revolt Name":"",
+    "Description":"( insert image) \"Between 1816 and 1830, sixteen uprisings and conspiracies had occurred on the sugar plantations surrounding San Salvador de Bahia. Muslims were clearly identified as leaders in at least five of these events, and were participants in all.\" (JR p, 305)",
+    "Description_NarrativeForPopup":"( insert image) \"Between 1816 and 1830, sixteen uprisings and conspiracies had occurred on the sugar plantations surrounding San Salvador de Bahia. Muslims were clearly identified as leaders in at least five of these events, and were participants in all.\" (JR p, 305)",
+    "Citations":"Image: https://en.wikipedia.org/wiki/Slavery_in_Brazil Slavery in Brazil by Jean-Baptiste Debret (1834–1839).",
+    "Resource Links":"",
+    "Long and Lat":"-0.46194, -50.82361",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1WrJvHZyrtse65foOM__SrEcLru6lB95d",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.8065,10.0115 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1500",
+    "Years":"1552",
+    "Place":"Buria, Venezuela",
+    "Revolt Name":"",
+    "Description":"(Insert Image) This revolt occured in Buria, and was\"... led by El Negro Miguel (also known as Rey Miguel), who founded a cimarrón, or cumbe (escaped slave) settlement and had himself proclaimed king. He developed an army of 1,500 slaves, Blacks, Mulattos, Zambos and Indigenous peoples to attack colonial establishments.\"  https://en.wikipedia.org/wiki/Afro-Venezuelan and https://www.globalafricanworker.com/content/afro-venezuelan-struggles-constitutional-recognition  and https://tvamediapro.wordpress.com/2018/02/20/el-rey-miguel-y-su-reina-guiomar/",
+    "Description_NarrativeForPopup":"(Insert Image) This revolt occured in Buria, and was\"... led by El Negro Miguel (also known as Rey Miguel), who founded a cimarrón, or cumbe (escaped slave) settlement and had himself proclaimed king. He developed an army of 1,500 slaves, Blacks, Mulattos, Zambos and Indigenous peoples to attack colonial establishments.\"  https://en.wikipedia.org/wiki/Afro-Venezuelan and https://www.globalafricanworker.com/content/afro-venezuelan-struggles-constitutional-recognition  and https://tvamediapro.wordpress.com/2018/02/20/el-rey-miguel-y-su-reina-guiomar/",
+    "Citations":"image1: http://leopoldest.blogspot.com/2016/11/pedro-centeno-vallenilla-pintor-de-la.html https://en.wikipedia.org/wiki/Afro-Venezuelan and https://www.globalafricanworker.com/content/afro-venezuelan-struggles-constitutional-recognition  and https://tvamediapro.wordpress.com/2018/02/20/el-rey-miguel-y-su-reina-guiomar/",
+    "Resource Links":"not yet found",
+    "Long and Lat":"10.0115° N, 68.8065° W",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1OfbBeiQlICkYy0I6K8nhud1a32Ch_l7Z?usp=sharing",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.24522,19.74737 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1790",
+    "Place":"Cap-Français, Haiti",
+    "Revolt Name":"Vincent Oge's Revolt",
+    "Description":"This revolt involved the plight for privilege and respect of the \"free gens de couleur\" as the government was \"unwilling to extend the benefits of French citizenship to the mulattoes and free blacks of Saint Domingue.(image1)\"  Oge wanted to have civil liberties but wasn't interested in emancipation. Oge, along with his friend Chavannes,  organized approximately 200 men and were able to massacre some white residents.  (image2) They were captured and executed to send a message to others by being broken on the wheel, decapitated \"(image3)...and their heads were displayed on pikes as a somber reminder of the power of colonial authorities\".",
+    "Description_NarrativeForPopup":"This revolt involved the plight for privilege and respect of the \"free gens de couleur\" as the government was \"unwilling to extend the benefits of French citizenship to the mulattoes and free blacks of Saint Domingue.(image1)\"  Oge wanted to have civil liberties but wasn't interested in emancipation. Oge, along with his friend Chavannes,  organized approximately 200 men and were able to massacre some white residents.  (image2) They were captured and executed to send a message to others by being broken on the wheel, decapitated \"(image3)...and their heads were displayed on pikes as a somber reminder of the power of colonial authorities\".",
+    "Citations":"Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006, pp 108-109.image 1 : https://commons.wikimedia.org/wiki/File:Vincent_Og%C3%A9_by_J._Verschueren.jpg\n (Author : J. Verschueren )\nimage 2 : https://www.whitneyplantation.org/history/slavery-in-louisiana/resistance/\nimage 3 : https://apnews.com/article/77923ee7ab3f4842937cae69d4c5dead\nThis July 14, 2017 photo shows a memorial by Woodrow Nash for the German Coast Uprising at the Whitney Plantation in Edgard, La. After the uprising, slaves who participated were tried and executed. Their heads were placed in public view along the Mississippi River, to serve as a warning to others. (AP Photo/Gerald Herbert)",
+    "Resource Links":"",
+    "Long and Lat":"19.74737, -72.24522",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1oE8Xl-Ar1TFoNbnri2HxBXquyHgNlybn",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.36213,33.17624 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1740",
+    "Place":"Charleston, South Carolina",
+    "Revolt Name":"",
+    "Description":"\"150-200 slaves gathered near Charleston...to stage a rebellion, but betrayal of the plan enabled slaveholders to confront the slaves with armed force.  At least fifty of the rebels were hanged...SC passed laws requiring masters to provide slaves with more food and clothing and to reduce the workday to fourteen hours, fifteen during the summer.\" (Image 1)",
+    "Description_NarrativeForPopup":"\"150-200 slaves gathered near Charleston...to stage a rebellion, but betrayal of the plan enabled slaveholders to confront the slaves with armed force.  At least fifty of the rebels were hanged...SC passed laws requiring masters to provide slaves with more food and clothing and to reduce the workday to fourteen hours, fifteen during the summer.\" (Image 1)",
+    "Citations":"Johannes Postma, Slave Revolts, Westport: Greenwich, 2008, p.76.image 1: https://georgiahistory.com/education-outreach/online-exhibits/online-exhibits/interpreting-the-gullahgeechee-heritage-in-the-21st-century/cuisine-arts-and-crafts/\nRice Cultivation\nGHS Photograph Collection\nMS 1361-SG-01-06",
+    "Resource Links":"",
+    "Long and Lat":"33.17624, -80.36213",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1iag-ZQRnBP1x5WuKnPfoQ8QyP7Akd6jd?usp=share_link",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.29192,31.11134 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1837",
+    "Place":"Cheneyville, Louisiana",
+    "Revolt Name":"",
+    "Description":"(Image 1)Revolt involving slaves, free blacks and white accomplices...one of the largest slave plots in state history, was betrayed by one of the conspirators\".  Lewis Cheney masterminded the insurrection, ellicited support from local white abolitionists and approximately 50 slaves and then revealed the plot in order that he could gain his own freedom! He was emancipated and given $500 to leave the state and his master was compensated $1,000, Lewis' purchase price! A vigilante jury condemned nine blacks and \"three persons of color to death by hanging,\" a local planter shot one of the whites involved in the conspiracy.  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez, eds. Greenwood Press: 2006: 110-111.",
+    "Description_NarrativeForPopup":"(Image 1)Revolt involving slaves, free blacks and white accomplices...one of the largest slave plots in state history, was betrayed by one of the conspirators\".  Lewis Cheney masterminded the insurrection, ellicited support from local white abolitionists and approximately 50 slaves and then revealed the plot in order that he could gain his own freedom! He was emancipated and given $500 to leave the state and his master was compensated $1,000, Lewis' purchase price! A vigilante jury condemned nine blacks and \"three persons of color to death by hanging,\" a local planter shot one of the whites involved in the conspiracy.  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez, eds. Greenwood Press: 2006: 110-111.",
+    "Citations":"https://lariverparishes.com/plantation/evergreen-plantation/ (Slideshow pictures)\n\nEncyclopedia of Slave Resistance and Rebellion, Junius Rodriguez, eds. Greenwood Press: 2006: 110-111.",
+    "Resource Links":"",
+    "Long and Lat":"31.11134, -92.29192",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1T1t_cRhfO9sFN6NxGOL10jG3cS_mBnqu",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.65718,39.67996 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1851",
+    "Place":"Christiana, Pennsylvania",
+    "Revolt Name":"Christiana Riot",
+    "Description":"(Image 1) William Parker, an escaped slave, moved and settled in Maryland.  He convinced others to form a network to protect Blacks from those enslavers using the Fugitive Slave Act, to recapture people.  Gorsuch heard his slave was on Parkers' land so he attempted to recapture him, shooting started leaving Gorsuch dead and his son injured.  A group of 38 men, including four Quakers were accused of treason and eventually released, signaling a blow to the law! https://abhmuseum.org/william-parker-and-the-resistance-at-christiana-september-11-1851.",
+    "Description_NarrativeForPopup":"(Image 1) William Parker, an escaped slave, moved and settled in Maryland.  He convinced others to form a network to protect Blacks from those enslavers using the Fugitive Slave Act, to recapture people.  Gorsuch heard his slave was on Parkers' land so he attempted to recapture him, shooting started leaving Gorsuch dead and his son injured.  A group of 38 men, including four Quakers were accused of treason and eventually released, signaling a blow to the law! https://abhmuseum.org/william-parker-and-the-resistance-at-christiana-september-11-1851.",
+    "Citations":"https://www.blackpast.org/african-american-history/christiana-riot-1851/ The Christiana Tragedy(Public domain)",
+    "Resource Links":"https://en.wikipedia.org/wiki/Christiana_Riot",
+    "Long and Lat":"39.67996, -75.65718",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1DOL2dEjmL1vWfZ6LCsMbeHc1Qei0aX4Z",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2973,4.5709 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1500",
+    "Years":"1596",
+    "Place":"Columbia, South America",
+    "Revolt Name":"",
+    "Description":"Biohó organized a slave revolt involving nearly three dozen people. The rebellion included his wife, Wiwa, and a grown daughter, Orika, among thirty others whom he led deep into the forest. There, they formed and defended one of the longest-lasting maroon settlements in the Americas, known as San Basilio de Palenque(Insertimage). https://revista.drclas.harvard.edu/book/african-and-afro-indian-rebel-leaders-latin-america-con-tanta-arrogancia",
+    "Description_NarrativeForPopup":"Biohó organized a slave revolt involving nearly three dozen people. The rebellion included his wife, Wiwa, and a grown daughter, Orika, among thirty others whom he led deep into the forest. There, they formed and defended one of the longest-lasting maroon settlements in the Americas, known as San Basilio de Palenque(Insertimage). https://revista.drclas.harvard.edu/book/african-and-afro-indian-rebel-leaders-latin-america-con-tanta-arrogancia",
+    "Citations":"",
+    "Resource Links":"",
+    "Long and Lat":"4.5709° N, 74.2973° W",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1BMXDOZK_F8H9Su8ch9DAuEZLLG-axhAB?usp=sharing",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9238,18.8839 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1735",
+    "Place":"Cordoba, Mexico",
+    "Revolt Name":"",
+    "Description":"(insert Image 1)Rumor of a royal decree of emancipation and that the authoriities refused to grant amnesty and emancipate runaway slaves who turned themselves in. \"According to slave owners, those fugitives then mobilized enslaved plantation workers and recruited a free mulatto to spread the rumor that the King of Spain had decreed the freedom of all the slaves in Mexico and the hacendados had refused to obey.  In June 1735, the slaves from one sugar hacienda rebelled, and were rapidly joined by others.  In just one day, five hundred men and a few women, representing one-third of the region's captives, had abandoned their work and resorted to violence...the number of rebelling slaves reached nearly two thousand; they set plantations on fire, destroyed haciendas and materials, stole, and killed whites....order was not reestablished until several months later, leaving no historical record of the exact number of victims, those convicted and the slaves who were able to join the runaways in the mountains.\"",
+    "Description_NarrativeForPopup":"(insert Image 1)Rumor of a royal decree of emancipation and that the authoriities refused to grant amnesty and emancipate runaway slaves who turned themselves in. \"According to slave owners, those fugitives then mobilized enslaved plantation workers and recruited a free mulatto to spread the rumor that the King of Spain had decreed the freedom of all the slaves in Mexico and the hacendados had refused to obey.  In June 1735, the slaves from one sugar hacienda rebelled, and were rapidly joined by others.  In just one day, five hundred men and a few women, representing one-third of the region's captives, had abandoned their work and resorted to violence...the number of rebelling slaves reached nearly two thousand; they set plantations on fire, destroyed haciendas and materials, stole, and killed whites....order was not reestablished until several months later, leaving no historical record of the exact number of victims, those convicted and the slaves who were able to join the runaways in the mountains.\"",
+    "Citations":"Aline Helb, Slave No More: Self-Liberation Before Abolition in the Americas, North Carolina: UNC press; 2019.",
+    "Resource Links":"",
+    "Long and Lat":"18.8839° N, 96.9238° W",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/14EVlsPwIQRYowCgHE1fIhOiBDNco2plb?usp=share_link",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.94271,23.13299 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1812",
+    "Place":"Cuba",
+    "Revolt Name":"Aponte Rebellion",
+    "Description":"(Insert image 3)Aponte \"... held the rank of first corporal (cabo primero) in Havana's black militia, and was the leader of his local Yoruba association.  (He) was (also) a free black carpenter in Havana was proclaimed to be the leader of a plot to rebel against the Cuban government, free the slaves and uplift free people of color, and overthrow slavery in Cuba (insert image 4).The movement struck several sugar plantations on the outskirts of Havana, but it was soon crushed by the government.\"  The rebellion also included free Blacks, Aponte was captured, hung and decapitated and his head was put in an iron cage and placed at the entrance of Havana.  https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Aponte",
+    "Description_NarrativeForPopup":"(Insert image 3)Aponte \"... held the rank of first corporal (cabo primero) in Havana's black militia, and was the leader of his local Yoruba association.  (He) was (also) a free black carpenter in Havana was proclaimed to be the leader of a plot to rebel against the Cuban government, free the slaves and uplift free people of color, and overthrow slavery in Cuba (insert image 4).The movement struck several sugar plantations on the outskirts of Havana, but it was soon crushed by the government.\"  The rebellion also included free Blacks, Aponte was captured, hung and decapitated and his head was put in an iron cage and placed at the entrance of Havana.  https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Aponte",
+    "Citations":"Image 2: https://www.northrop.umn.edu/events/discussing-history-and-art-jos-antonio-aponte \nImage 3: https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Aponte A sketch of Jose Antonio Aponte  (Public domain)",
+    "Resource Links":"",
+    "Long and Lat":"23.13299, -81.94271",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1IV4dtPJbHI0SwxBRoG7GjPLfSys5lKX5",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.21317,23.03668 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y?",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1843",
+    "Place":"Cuba",
+    "Revolt Name":"Alcancia Revolt",
+    "Description":"(Image 1) Africans on the Matanzas plantation revolted and were joined by others at neighboring plantations, up to 250 participated.  Officials tried to keep other Africans from finding out, in particular the railroad workers, but they did and the crowd swelled.  In the end over 100 Africans were killed, eight were shot and their heads put on spikes to deter others.  (Ronald Young in  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006:, pp. 146-147)",
+    "Description_NarrativeForPopup":"(Image 1) Africans on the Matanzas plantation revolted and were joined by others at neighboring plantations, up to 250 participated.  Officials tried to keep other Africans from finding out, in particular the railroad workers, but they did and the crowd swelled.  In the end over 100 Africans were killed, eight were shot and their heads put on spikes to deter others.  (Ronald Young in  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006:, pp. 146-147)",
+    "Citations":"https://www.edreams.com/blog/vinales-cuban-countryside/ Viñales Valley \n\nRonald Young in  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006:, pp. 146-147)",
+    "Resource Links":"https://www.angelfire.com/planet/islas/English/v1n3-pdf/38-45.pdf",
+    "Long and Lat":"23.03668, -81.21317",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1IaimgsAqCaNs3wwC4J8R89EjLoXyuLIJ",
+    "Notes":"Multiple location/plantation. Alcancia\nsugar mill in Cardenas, but soon spread to work crews at the La Luisa, La Trinidad,\nLas Nieves and La Aurora sugar mills,\nincluding those of the Moscu coffee plantations and the Ranchuelo corral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.53259,23.03195 ]
+    },
+    "properties": {
+    "Has PP?":"?",
+    "Prelim 40 points?":"Y?",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1843",
+    "Place":"Cuba",
+    "Revolt Name":"Triunvirato Rebellion",
+    "Description":"Carlota, a female Yoruba warrior and her friend Fermina organized a revolt in Cuba.  Fermina was captured and imprisoned but Carlota kept going and eventually freed her friend and many others who were imprisoned.  She sent coded messages using the drums that the Spanish were not aware of, the uprisings attacked over five plantations and freed many of the enslaved using guerilla tactics.  Eventually, Carlota and Fermina were captured, 1844 is regarded as the year of the lashes as many Blacks were punished in an effort to \"get them back in line.\" http://thefemalesoldier.com/blog/carlota",
+    "Description_NarrativeForPopup":"Carlota, a female Yoruba warrior and her friend Fermina organized a revolt in Cuba.  Fermina was captured and imprisoned but Carlota kept going and eventually freed her friend and many others who were imprisoned.  She sent coded messages using the drums that the Spanish were not aware of, the uprisings attacked over five plantations and freed many of the enslaved using guerilla tactics.  Eventually, Carlota and Fermina were captured, 1844 is regarded as the year of the lashes as many Blacks were punished in an effort to \"get them back in line.\" http://thefemalesoldier.com/blog/carlota",
+    "Citations":"http://thefemalesoldier.com/blog/carlota",
+    "Resource Links":"https://youtu.be/g0GYp_9atx4 https://en.wikipedia.org/wiki/Carlota_(rebel_leader)",
+    "Long and Lat":"23.03195, -81.53259",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"?",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.38636,5.81209 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"TRUE",
+    "Column":"1800",
+    "Years":"1823",
+    "Place":"Demerara-Essequibo, Guyana",
+    "Revolt Name":"Demerara Revolt",
+    "Description":"(insertimage 1) This revolt involved up to 10,000 enslaved and lasted two days. (insert image 2) ( insert image 5) Some say that this started as a refusal to work on 50 plantations by some 13,000 slaves; however, other accounts report they were just fed up. The slaves under Christian missionary influence believed in pacifism and didn't want violence, some even helped to suppress the rebellion. They also believed that slavery had been abolished by British Parliament. They were met with a show of force by the British troops and were massacred.(insert image 4) (insert image 3) (insert image 6)  The bullet riddled body of Quamina, bound in chains, was put on public show. John Smith, a missionary, was accused of inciting the rebellion was tried and found guilty. He died in prison. His death stirred more anti-slavery opinion in Britain than the deaths of the many who had died from the guns of British troops.The aftermath led to the execution of over 200 enslaved to \"send a message.\" (insert image 7) The governor of Barbados wrote, \"Now the ball has begun to roll no one can say where or when it is going to stop.\"  News of the rebellion and ensuant atrocities caused an outcry in Britain agaist the practices of the planters and played a decisive role in the abolition of slavery! (insert image 8) Tomiko Ballantyne-Nisbett in  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006:, pp. 161-162.",
+    "Description_NarrativeForPopup":"(insertimage 1) This revolt involved up to 10,000 enslaved and lasted two days. (insert image 2) ( insert image 5) Some say that this started as a refusal to work on 50 plantations by some 13,000 slaves; however, other accounts report they were just fed up. The slaves under Christian missionary influence believed in pacifism and didn't want violence, some even helped to suppress the rebellion. They also believed that slavery had been abolished by British Parliament. They were met with a show of force by the British troops and were massacred.(insert image 4) (insert image 3) (insert image 6)  The bullet riddled body of Quamina, bound in chains, was put on public show. John Smith, a missionary, was accused of inciting the rebellion was tried and found guilty. He died in prison. His death stirred more anti-slavery opinion in Britain than the deaths of the many who had died from the guns of British troops.The aftermath led to the execution of over 200 enslaved to \"send a message.\" (insert image 7) The governor of Barbados wrote, \"Now the ball has begun to roll no one can say where or when it is going to stop.\"  News of the rebellion and ensuant atrocities caused an outcry in Britain agaist the practices of the planters and played a decisive role in the abolition of slavery! (insert image 8) Tomiko Ballantyne-Nisbett in  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006:, pp. 161-162.",
+    "Citations":"Image 1: https://commons.wikimedia.org/wiki/File:Demerara_rebellion_of_1823_map.svg Demerara rebellion of 1823(From Seb az86556 Public domain)\nimage2: https://commons.wikimedia.org/wiki/File:Plate_4_Bachelor%27s_Adventure.jpg \nImage 3: https://www.stabroeknews.com/2013/08/01/news/guyana/the-distinctive-features-of-the-1823-demerara-slave-rebellion/  The Demerara Cavalry mustering outside the Royal Hotel in what is now Avenue of the Republic during the 1823 Rising\nImage 4: https://en.wikipedia.org/wiki/Demerara_rebellion_of_1823 Provisional Battalion lines up for review\nImage 5: https://www.wwno.org/podcast/tripod-new-orleans-at-300/2015-10-22/home-away-from-home-a-haitian-in-exile-finds-new-orleans Rendition of the slave revolt, Colony of Santo Domingo(Historic New Orleans Collection, 1974.25.10.52)\nImage 6: https://commons.wikimedia.org/wiki/File:Plate_10_The_Indians.jpg  From Bryant, Joshua (1824) Account of an insurrection of the negro slaves in the colony of Demerara, which broke out on the 18th of August, 1823., Georgetown, Demerara: A. Stevenson at the Guiana Chronicle Office (Public domain)                                                         Image 7: https://commons.wikimedia.org/wiki/File:Plate_12_The_Gallows.jpg From Bryant, Joshua (1824) Account of an insurrection of the negro slaves in the colony of Demerara, which broke out on the 18th of August, 1823., Georgetown, Demerara: A. Stevenson at the Guiana Chronicle Office (Public domain)\nImage 8: Image from a monument to the 1823 Demerara rebellion in Georgetown, Guyana",
+    "Resource Links":"https://youtu.be/FsODcSoang4\n\nhttps://blackpast.org/gah/demerara-rebellion-1823",
+    "Long and Lat":"5.81209, -58.38636",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1MleEggf-2KQ0NBOTP43UfEVLOU-to49o",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.35037,15.38189 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1791",
+    "Place":"Dominica",
+    "Revolt Name":"",
+    "Description":"(image1) This uprising was led by an enslaved man named Farcel (also spelled Pharcel).  It is believed they rose \"...as a means of protecting the prerogatives that they had gained through the years.  In particular, they hoped to retain sufficient free time each week that they used to work on their  own provision grounds (plots of farmland allotted to slave families).\" Lennox Honychurch. The Dominica Story: A History of the Island.  Hong Kong: Macmillan, 1995.",
+    "Description_NarrativeForPopup":"(image1) This uprising was led by an enslaved man named Farcel (also spelled Pharcel).  It is believed they rose \"...as a means of protecting the prerogatives that they had gained through the years.  In particular, they hoped to retain sufficient free time each week that they used to work on their  own provision grounds (plots of farmland allotted to slave families).\" Lennox Honychurch. The Dominica Story: A History of the Island.  Hong Kong: Macmillan, 1995.",
+    "Citations":"Image: Book Cover for Alick Lazare, Pharcel: Runaway Slave, iUniverse, Inc.; 0 edition (June 29, 2006)...  Lennox Honychurch. The Dominica Story: A History of the Island.  Hong Kong: Macmillan, 1995.",
+    "Resource Links":"https://www.thedominican.net/articles/pharcel.htm",
+    "Long and Lat":"15.38189, -61.35037",
+    "Long and Lat Precise or Approximation":"",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1L7OcjqkTtpqyCzk6tbiN10_f1h_WI9CD",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.9312,18.4861 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1500",
+    "Years":"1540",
+    "Place":"Dominican Republic",
+    "Revolt Name":"",
+    "Description":"Captain Lemba rebelled against Spanish authorities ( Insert Image 1)-3,000 Maroons involved. This leader of the Maroon community \"utilized guerilla tactics to fight the Spanish on the island. Spanish authorities themselves acknowledged that the African rebel was an able military leader and was believed to be from the Kongo.(Insert Image 4) Lemba led a force of some 140 black warriors in his attacks...took needed supplies from the Spanish...and also freed African slaves they encountered.\" He was captured in 1547 and was put to death, he is still memorialized in Santo Domingo with a statue at the Museum of Man. (Insert Image 2) (Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006,  pp. 100-101)",
+    "Description_NarrativeForPopup":"Captain Lemba rebelled against Spanish authorities ( Insert Image 1)-3,000 Maroons involved. This leader of the Maroon community \"utilized guerilla tactics to fight the Spanish on the island. Spanish authorities themselves acknowledged that the African rebel was an able military leader and was believed to be from the Kongo.(Insert Image 4) Lemba led a force of some 140 black warriors in his attacks...took needed supplies from the Spanish...and also freed African slaves they encountered.\" He was captured in 1547 and was put to death, he is still memorialized in Santo Domingo with a statue at the Museum of Man. (Insert Image 2) (Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006,  pp. 100-101)",
+    "Citations":"Image 2: https://alchetron.com/Sebasti%C3%A1n-Lemba \nImage 4: https://www.biografiasyvidas.com/biografia/c/carducho_vincenzo.htm \nThe Rheinfelden Contest (1634) by Vincent Carducho",
+    "Resource Links":"not yet found",
+    "Long and Lat":"18.4861° N, 69.9312° W",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1kqLN68onv5wmBknNViEjB5rYMuYBNWrl?usp=sharing",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.22136,5.85367 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1400",
+    "Years":"1470",
+    "Place":"Ghana",
+    "Revolt Name":"",
+    "Description":"(Image 1) King Ansah of Ghana 1470-1486 had the Fante people watch for ships and prevented them from coming ashore. King Ansah of Ghana 1470 - 1472: Little is known about the earlier battles that occurred at the onset of the slave trade. These battles were precursory to the resistence later seen across the region. As early as the 1400’s,  there appeared to be resisitence to the early signs and intentions of enslavement behaviors exhibited by the Portuguese who had formed allences with many of the Ghanain inhabitants. Notibly, King Ansah of Ghana and the Fante people were one such group that persisted in their resistence. They refused to participate in the slave trade. They dimissed the Portuguese from thier land and kept watch for foreign vessels that sailed their waters and prevented them from embarking. They would kill any intruders that tried to come ashore. This held the European invaders at bay for a while but they were persistent in their efforts. They had an appetite for enslaving people.",
+    "Description_NarrativeForPopup":"(Image 1) King Ansah of Ghana 1470-1486 had the Fante people watch for ships and prevented them from coming ashore. King Ansah of Ghana 1470 - 1472: Little is known about the earlier battles that occurred at the onset of the slave trade. These battles were precursory to the resistence later seen across the region. As early as the 1400’s,  there appeared to be resisitence to the early signs and intentions of enslavement behaviors exhibited by the Portuguese who had formed allences with many of the Ghanain inhabitants. Notibly, King Ansah of Ghana and the Fante people were one such group that persisted in their resistence. They refused to participate in the slave trade. They dimissed the Portuguese from thier land and kept watch for foreign vessels that sailed their waters and prevented them from embarking. They would kill any intruders that tried to come ashore. This held the European invaders at bay for a while but they were persistent in their efforts. They had an appetite for enslaving people.",
+    "Citations":"(afrikanholocaust.com) and Article from The African Exponent Monday Mar 27th, 2023\nBy Tatenda Gwaambuka.\nJuly 23rd, 2017\n\nhttps://www.africanexponent.com/post/8503-the-untold-story-of-african-resistance-against-the-slave-trade\nLink: http://www.africaspeaks.com/reasoning/index.php?topic=1405.0%3Bwap2\n\nThink Africa - 10 nations that didn’t take part in the slave trade\nBy Editorial Team / March 6, 2021\nhttps://thinkafrica.net/10-nations-that-didnt-take-part-in-the-slave-trade/",
+    "Resource Links":"not yet found",
+    "Long and Lat":"5.85367, -0.22136",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/15NpfvYwAHFqXa6GfzDD_NH2KF4z4nn-k?usp=sharing",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.63889,16.24918 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1789",
+    "Place":"Guadeloupe",
+    "Revolt Name":"",
+    "Description":"(  insertimage1) The French Revolution causes an uprising of thousands.  African people had an \"underground telephone,\" they knew of international wars and their impact on slavery.  Some masters went as far as to spell words so Africans couldn't know, but they translated the letters.",
+    "Description_NarrativeForPopup":"(  insertimage1) The French Revolution causes an uprising of thousands.  African people had an \"underground telephone,\" they knew of international wars and their impact on slavery.  Some masters went as far as to spell words so Africans couldn't know, but they translated the letters.",
+    "Citations":"",
+    "Resource Links":"",
+    "Long and Lat":"16.24918, -61.63889",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1DEFr6WEOPmTufPNb_qCiWJYqV1y8o58x",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.6966,9.9456 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1750",
+    "Place":"Guinea, West Africa",
+    "Revolt Name":"King David Revolt",
+    "Description":"The King David Revolt took place on May 8, 1750 (Image 1), the vessel and its crew experienced an insurrection at sea as slaves fought to liberate themselves from captivity and most of the crew were killed... (image 2) A group of slaves were able to burst into the captain's cabin at 5:00 a.m.  on the morning of May 8 was an insurrection by Africans who were able to get guns from the captain's cabin.  One of the Africans spoke English and was able to befriend members of the crew who allowed him to roam freely.  He organized other Africans and they broke into the Captain's cabin and killed the captain and five people, the other crew members were chained below deck, nine crew members were thrown into the Atlantic. (Image 3 & 4)  One of the surviving crew members convinced them to go to an island where there weren't any whites instead of going back to Africa.  The sailed to Teage and were overcome by the French. (Source: George Francis Dow, Slave Ships and Slaving. Port Washington NY: Kennikat Press, 1969).",
+    "Description_NarrativeForPopup":"The King David Revolt took place on May 8, 1750 (Image 1), the vessel and its crew experienced an insurrection at sea as slaves fought to liberate themselves from captivity and most of the crew were killed... (image 2) A group of slaves were able to burst into the captain's cabin at 5:00 a.m.  on the morning of May 8 was an insurrection by Africans who were able to get guns from the captain's cabin.  One of the Africans spoke English and was able to befriend members of the crew who allowed him to roam freely.  He organized other Africans and they broke into the Captain's cabin and killed the captain and five people, the other crew members were chained below deck, nine crew members were thrown into the Atlantic. (Image 3 & 4)  One of the surviving crew members convinced them to go to an island where there weren't any whites instead of going back to Africa.  The sailed to Teage and were overcome by the French. (Source: George Francis Dow, Slave Ships and Slaving. Port Washington NY: Kennikat Press, 1969).",
+    "Citations":"Image 1: George Francis Dow, Slave Ships and Slaving. Port Washington NY: Kennikat Press, 1969)\n\nImage 2: http://slaverebellion.org/index.php?page=african-insurrections\n\nmage 3 Alamy mage ID:FERT72\n\nImage 4 https://digital.librarycompany.org/islandora/object/Islandora%3A2834",
+    "Resource Links":"http://slaverebellion.org/index.php?page=african-insurrections",
+    "Long and Lat":"9.9456° N, 9.6966° W",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1LIG6Dfh9wgX_zosaVbFOaYRfpNgMG21F?usp=share_link",
+    "Notes":"Rebellion at sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38423,23.11387 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1844",
+    "Place":"Havana, Cuba",
+    "Revolt Name":"",
+    "Description":"(Image 1) LADDER REVOLT Year of the Lash (in Spanish, Año del Cuero) is a term used in Cuba in reference to June 29, 1844, when a firing squad in Havana executed accused leaders of the Conspiración de La Escalera, an alleged slave revolt and movement to abolish slavery in Cuba.  The term \"Year of the Lash\" refers generally to the harsh response toward the would-be revolt by Cuban authorities, whereby thousands of Afro-Cubans (both slave and free) were executed, imprisoned, or banished from the island.  La Escalera (the ladder) alludes to the fact that slave suspects were bound to ladders and whipped with the lash when they were interrogated.[3] https://en.wikipedia.org/wiki/Year_of_the_Lash",
+    "Description_NarrativeForPopup":"(Image 1) LADDER REVOLT Year of the Lash (in Spanish, Año del Cuero) is a term used in Cuba in reference to June 29, 1844, when a firing squad in Havana executed accused leaders of the Conspiración de La Escalera, an alleged slave revolt and movement to abolish slavery in Cuba.  The term \"Year of the Lash\" refers generally to the harsh response toward the would-be revolt by Cuban authorities, whereby thousands of Afro-Cubans (both slave and free) were executed, imprisoned, or banished from the island.  La Escalera (the ladder) alludes to the fact that slave suspects were bound to ladders and whipped with the lash when they were interrogated.[3] https://en.wikipedia.org/wiki/Year_of_the_Lash",
+    "Citations":"Year of the Lash. (2022, February 1)  https://en.wikipedia.org/wiki/Year_of_the_Lash “Punishing Slaves in Cuba”, an illustration of a slave being tortured using a ladder. Harper's Weekly (Nov. 28, 1868) vol.12, p. 753 (front page).\n\nhttps://en.wikipedia.org/wiki/Year_of_the_Lash",
+    "Resource Links":"https://en.wikipedia.org/wiki/Year_of_the_Lash",
+    "Long and Lat":"23.11387, -82.38423",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1g2Kzw1Wzmu3_IEFNM7SxBfu5dDStaP4X",
+    "Notes":"Not solid cite"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2975,18.1096 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1795",
+    "Place":"Jamaica",
+    "Revolt Name":"",
+    "Description":"-1795 Jamaica's Second Maroon War- ( insert image 1)The Maroons of Trelawny Town felt that they were being mistreated under the terms of Cudjoe's Treaty of 1739, which ended the First Maroon War. The spark of the war was when two Maroons were flogged by a black slave for stealing two pigs. When six Maroon leaders, led by Montague James and including Major Jarrett, came to the British to present their grievances, the British took them as prisoners. They were acting under orders from the new governor, Alexander Lindsay, 6th Earl of Balcarres, who wrongly believed that the French had infected the Maroons with their revolutionary spirit. Balcarres completely mishandled the dispute, which could have been resolved without conflict, but he ignored the advice of local planters, and ordered his forces to put down the Maroons of Trelawny Town. Fighting began in mid-August",
+    "Description_NarrativeForPopup":"-1795 Jamaica's Second Maroon War- ( insert image 1)The Maroons of Trelawny Town felt that they were being mistreated under the terms of Cudjoe's Treaty of 1739, which ended the First Maroon War. The spark of the war was when two Maroons were flogged by a black slave for stealing two pigs. When six Maroon leaders, led by Montague James and including Major Jarrett, came to the British to present their grievances, the British took them as prisoners. They were acting under orders from the new governor, Alexander Lindsay, 6th Earl of Balcarres, who wrongly believed that the French had infected the Maroons with their revolutionary spirit. Balcarres completely mishandled the dispute, which could have been resolved without conflict, but he ignored the advice of local planters, and ordered his forces to put down the Maroons of Trelawny Town. Fighting began in mid-August",
+    "Citations":"",
+    "Resource Links":"",
+    "Long and Lat":"18.1096° N, 77.2975° W",
+    "Long and Lat Precise or Approximation":"",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1teLNOw1piRfjAoLG3bTXmJF6ipS8hMb3",
+    "Notes":"Appears twice and can't align it"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.83403,-27.79649 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1838",
+    "Place":"Kwa Zulu-Natal, South Africa",
+    "Revolt Name":"Blood River",
+    "Description":"(Image 1) The Battle of Blood River (Afrikaans: Slag van Bloedrivier; Zulu: iMpi yaseNcome) is the name given for the battle fought between 470 Voortrekkers (\"Pioneers\"), led by Andries Pretorius, and an estimated \"10,000 to 15,000\"[1] Zulu on the bank of the Ncome River on 16 December 1838, in what is today KwaZulu-Natal, South Africa. Casualties amounted to over 3,000 of King Dingane's soldiers dead, including two Zulu princes competing with Prince Mpande for the Zulu throne. Three Pioneer commando members were lightly wounded, including Pretorius. so many Africans were killed making the river turn red with blood.",
+    "Description_NarrativeForPopup":"(Image 1) The Battle of Blood River (Afrikaans: Slag van Bloedrivier; Zulu: iMpi yaseNcome) is the name given for the battle fought between 470 Voortrekkers (\"Pioneers\"), led by Andries Pretorius, and an estimated \"10,000 to 15,000\"[1] Zulu on the bank of the Ncome River on 16 December 1838, in what is today KwaZulu-Natal, South Africa. Casualties amounted to over 3,000 of King Dingane's soldiers dead, including two Zulu princes competing with Prince Mpande for the Zulu throne. Three Pioneer commando members were lightly wounded, including Pretorius. so many Africans were killed making the river turn red with blood.",
+    "Citations":"https://samilhistory.com/2018/04/29/whose-land-is-it-anyway/30171590_2130613020501018_7878437854953059926_o/ Artists impression of the Battle of Blood River – artist unknown",
+    "Resource Links":"https://en.wikipedia.org/wiki/Battle_of_Blood_River",
+    "Long and Lat":"-27.79649, 30.83403",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/14tfEtldb-UscFoB-L1Tdh8DoScAcIzWh",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.9623,30.9843 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1729",
+    "Place":"Louisiana",
+    "Revolt Name":"Great Natchez Massacre",
+    "Description":"The Great Natchez Massacre where Native Americans and Africans joined forces in several occurrences. They killed approximately 200 of the French, freed 275 slaves and established Maroon communities.   When the Spanish took over they abolished Indian slavery in 1763 that increased African enslavement.\nNative Americans and Africans joined forces in several occurrences. \n\nThey killed approximately 200 of the French, freed 275 slaves and established Maroon communities.\n\nWhen the Spanish took over they abolished Indian slavery in 1763 that increased African enslavement. (Image 1, 2, 3, & 4)\nNatalie Zacek, Reading The Rebels: Currents Of Slave Resistance In The 18th Century British West Indies, history.ac.uk",
+    "Description_NarrativeForPopup":"The Great Natchez Massacre where Native Americans and Africans joined forces in several occurrences. They killed approximately 200 of the French, freed 275 slaves and established Maroon communities.   When the Spanish took over they abolished Indian slavery in 1763 that increased African enslavement.\nNative Americans and Africans joined forces in several occurrences. \n\nThey killed approximately 200 of the French, freed 275 slaves and established Maroon communities.\n\nWhen the Spanish took over they abolished Indian slavery in 1763 that increased African enslavement. (Image 1, 2, 3, & 4)\nNatalie Zacek, Reading The Rebels: Currents Of Slave Resistance In The 18th Century British West Indies, history.ac.uk",
+    "Citations":"image 3: https://en.wikipedia.org/wiki/Natchez_revolt\nimage 2: https://www.granger.com/results.asp?inline=true&image=0176580&wwwflag=3&itemx=3 (For Sale)\nimage 1: https://www.flickr.com/photos/sunnybrook100/556969851 (Photo taken by Sunny Brook) (Incomplete)",
+    "Resource Links":"",
+    "Long and Lat":"30.9843° N, 91.9623° W",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1nIJJklPrKvZsIwuZbRl30rDY8XG8H8LE?usp=share_link",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.8691,-18.7669 ]
+    },
+    "properties": {
+    "Has PP?":"Yx2",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1725",
+    "Place":"Madagascar",
+    "Revolt Name":"",
+    "Description":"(insert image 1) (insert image 2)The Malagasy Africans were on deck and watching the sellers looking for signs of weakness when one left to get a drink, Africans grabbed an axe and within seconds the others grabbed tools that were unsecured in a barrel, they armed themselves with shackles and cannon balls from another barrel. One sailor who noticed the insurrection was killed right away a few of them hadn't had their ankle irons locked so they were able to attack others (insert image 4). It took the Malagasy only a few minutes to seize the deck the crew was not prepared to deal with this revolt nor did they have access to weapons. The commotion got the attention of a ship that was nearby, the Alcyon, that tried to subdue the ship by firing a cannon in it and then sailing on small boats close to the ship, but the Africans found guns and shot at them (insert image 3). As the Vautour ran aground, many Africans jumped overboard some were shot by the French on the Alcyon but the other survivors ran away The Vautour was beyond repair. This event limited the numbers of Africans taken from this country and it is believed that other insurrections were precipitated by this successful African mutiny on the French vessel the Vautour.",
+    "Description_NarrativeForPopup":"(insert image 1) (insert image 2)The Malagasy Africans were on deck and watching the sellers looking for signs of weakness when one left to get a drink, Africans grabbed an axe and within seconds the others grabbed tools that were unsecured in a barrel, they armed themselves with shackles and cannon balls from another barrel. One sailor who noticed the insurrection was killed right away a few of them hadn't had their ankle irons locked so they were able to attack others (insert image 4). It took the Malagasy only a few minutes to seize the deck the crew was not prepared to deal with this revolt nor did they have access to weapons. The commotion got the attention of a ship that was nearby, the Alcyon, that tried to subdue the ship by firing a cannon in it and then sailing on small boats close to the ship, but the Africans found guns and shot at them (insert image 3). As the Vautour ran aground, many Africans jumped overboard some were shot by the French on the Alcyon but the other survivors ran away The Vautour was beyond repair. This event limited the numbers of Africans taken from this country and it is believed that other insurrections were precipitated by this successful African mutiny on the French vessel the Vautour.",
+    "Citations":"image 1: https://mg.wikipedia.org/wiki/Tantaran'_i_Madagasikara (Dirck Jansz van Santen, Domain Public)\nimage 2: https://commons.wikimedia.org/wiki/File:Africa_1745,_Guillaume_Delisle_(3993456-recto).jpg\n  (North West University Library, Public Domain, De L'Isle, Guillaume)\n\nimage 3: http://www.slaveryimages.org/s/slaveryimages/item/2009 (Le Magasin Pittoresque (1844), p. 52, Public Domain)\n\nimage 4: http://www.slaveryimages.org/s/slaveryimages/item/2548 \n(Isabelle Aguet, A Pictorial History of the Slave Trade (Geneva: Editions Minerva, 1971), plate 64, p.71.)",
+    "Resource Links":"",
+    "Long and Lat":"18.7669° S, 46.8691° E",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1uVVz7_8HrPYT3bnfbS3CbAXBZ_xdbhrl?usp=share_link",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.95063,-3.53214 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1838-1841",
+    "Place":"Manga, Maranhao, Brazil",
+    "Revolt Name":"Balaiada Rebellion",
+    "Description":"Balaiada Rebellion in northeastern Brazilian states of Maranhao and Piaui when a freed slave broke into a jail to free some prisoners including his brother.  Raimundo Gomes Vieira Jutahy was able to take control of the town and the National Guard sided with him. (image 1)  He issued a manifesto calling for the expulsion of all Portuguese, slaves and overseers.  This call evidences the competition of the unemployed with the slaves during that economic down period. (image 2)  In 1839 the governor sent in 400 troops but they were quickly defeated.  The rebellion attracted many runaway slaves under the leadership of Cosme Bento das Chagas, the leader of a slave community who called for the end to slavery.  In 1840 the new governor sent in 8,000 troops and were able to defeat the \"rebels\".  Elizabeth Johnson in   Encyclopedia of Slave Resistance and Rebellion, , Junius Rodriguez ,eds. Greenwood Press: 2006:, pp. 43-44.",
+    "Description_NarrativeForPopup":"Balaiada Rebellion in northeastern Brazilian states of Maranhao and Piaui when a freed slave broke into a jail to free some prisoners including his brother.  Raimundo Gomes Vieira Jutahy was able to take control of the town and the National Guard sided with him. (image 1)  He issued a manifesto calling for the expulsion of all Portuguese, slaves and overseers.  This call evidences the competition of the unemployed with the slaves during that economic down period. (image 2)  In 1839 the governor sent in 400 troops but they were quickly defeated.  The rebellion attracted many runaway slaves under the leadership of Cosme Bento das Chagas, the leader of a slave community who called for the end to slavery.  In 1840 the new governor sent in 8,000 troops and were able to defeat the \"rebels\".  Elizabeth Johnson in   Encyclopedia of Slave Resistance and Rebellion, , Junius Rodriguez ,eds. Greenwood Press: 2006:, pp. 43-44.",
+    "Citations":"Image 1: https://librarycompany.org/dejavu/part2.html Gate & slave market at Pernambuco, Edward Francis Finden engraving.\n\nImage 2: Portuguese Army. (2022, December 31). In Wikipedia. https://en.wikipedia.org/wiki/Portuguese_Army (Public domain)",
+    "Resource Links":"https://www.onwar.com/data/brazil1838.html",
+    "Long and Lat":"-3.53214, -43.95063",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1dG6ncrELMVzZTinKB9DZ1xJ8mGHvHuj5",
+    "Notes":"need better source"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2767,8.8855 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1500",
+    "Years":"1522",
+    "Place":"Panama",
+    "Revolt Name":"",
+    "Description":"(Insert Image 3) \"King Bayano, a Mandinko and alleged Muslim who was captured by slavers in West Africa, leads escaped slaves in the largest sixteenth-century revolt against Spanish colonial rule in Panama\".  The ship carrying 400 Africans sank and they thereby escaped and set up a community and elected Bayano to be their leader.  \"This was the first rebellion against colonial authority in the America's.\"(Image Missing)  Bayano was able to swell his ranks with help from the \"Cimarrones\" those Blacks who married Indians, Scottish and English pirates to fight against the Spanish.  Bayano and his regades thwarted Spanish caravans taking their gold and silver and fought the Spanish for over five years.  The Spanish sent a conquistador to subdue him but was unable so they lured Bayano to a peace negotiation and poisoned his men,(Insert Image 4)  Bayano was captured and exiled to Peru and then to Spain where he lived comfortably with the wealth he amassed.  Bayano's followers were allowed to maintain their freedom.(Insert Image 1) (Annette Richardson in Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006, pp.45-46)",
+    "Description_NarrativeForPopup":"(Insert Image 3) \"King Bayano, a Mandinko and alleged Muslim who was captured by slavers in West Africa, leads escaped slaves in the largest sixteenth-century revolt against Spanish colonial rule in Panama\".  The ship carrying 400 Africans sank and they thereby escaped and set up a community and elected Bayano to be their leader.  \"This was the first rebellion against colonial authority in the America's.\"(Image Missing)  Bayano was able to swell his ranks with help from the \"Cimarrones\" those Blacks who married Indians, Scottish and English pirates to fight against the Spanish.  Bayano and his regades thwarted Spanish caravans taking their gold and silver and fought the Spanish for over five years.  The Spanish sent a conquistador to subdue him but was unable so they lured Bayano to a peace negotiation and poisoned his men,(Insert Image 4)  Bayano was captured and exiled to Peru and then to Spain where he lived comfortably with the wealth he amassed.  Bayano's followers were allowed to maintain their freedom.(Insert Image 1) (Annette Richardson in Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006, pp.45-46)",
+    "Citations":"Image 1: https://www.richandsally.net/alabi_s_world_8368.htm \"A Rebel Negro armed & on his guard,\" engraved by Francesco Bartolozzi (Public domain)\nImage 2: https://www.aoc.gov/explore-capitol-campus/art/discovery-mississippi-de-soto Painting by William H. Powell(Public domain)\nImage 3: https://commons.wikimedia.org/wiki/File:Boilat-10-Marabout_mandingue.jpg  Mandinka marabout(Public domain)",
+    "Resource Links":"Annette Richardson in Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006,  pp.45-46.\nNew York Public Library [1] from Esquisses Sénégalaises; physionomie du pays, peuplades, commerce, religions, passé et avenir, récits et legendes, planche X",
+    "Long and Lat":"8.8855° N, 80.2767° W",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1uKg1W1V7GDxPI6b91AJcRJCzji9gnEpr?usp=sharing",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6689,-12.5728 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1500 Penn",
+    "Years":"1546",
+    "Place":"Peru",
+    "Revolt Name":"",
+    "Description":"(Insert Image 1)The Spanish crown had issued an edict to protect the natives from slavery and limit privileges of the Conquistadores, in reaction to these edicts, Gonzalo Pizarro led this revolt against the Spanish crown. Some Africans and natives enjoined in the rebellion as they were promised freedom. It was \"...one of Pizarro's African slaves who was charged with the task of murdering Blasco Nunez Vela, the first viceroy of Peru, in 1546. Once this high-ranking Spanish official was killed, he was decapitated, and his head was displayed on a pike\". The result led to the protection of the indigenous and the expansion of African slavery. Insert image 3)",
+    "Description_NarrativeForPopup":"(Insert Image 1)The Spanish crown had issued an edict to protect the natives from slavery and limit privileges of the Conquistadores, in reaction to these edicts, Gonzalo Pizarro led this revolt against the Spanish crown. Some Africans and natives enjoined in the rebellion as they were promised freedom. It was \"...one of Pizarro's African slaves who was charged with the task of murdering Blasco Nunez Vela, the first viceroy of Peru, in 1546. Once this high-ranking Spanish official was killed, he was decapitated, and his head was displayed on a pike\". The result led to the protection of the indigenous and the expansion of African slavery. Insert image 3)",
+    "Citations":"Image 1: Gonzalo Pizarro. (2022, April 18). In Wikipedia. https://ca.wikipedia.org/wiki/Gonzalo_Pizarro Image 3: https://shop53002.jagisa.net/content?c=gonzalo%20pizarro&id=32 Image ID: RjCGK0(For sale) Lewis Hanke, The Spanish Struggle for Justice in the Conquest of America. Philadelphia: University of Pennsylvania Press, 1949.",
+    "Resource Links":"not yet found",
+    "Long and Lat":"12.5728° S, 17.6689° E",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1N8zvtkMqsvL22Wjq8uZL0Cpjc2kqw609?usp=sharing",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.28708,14.30574 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1787",
+    "Place":"Senegal",
+    "Revolt Name":"",
+    "Description":"King of Almammy passed a law that made it illegal to take enslaved Africans from his kingdom.  He returned presents from French slave traders that were sent as bribes.  \"Because the King of Almammy was preparing for war at the sea with the French, the French paid Arab muslims in Mauritania to attack his Kingdom on land from behind. His kingdom was unfortunately defeated, however, his shining example of Afrikan morality in the face of evil lives forever.\" (image 1) https://www.facebook.com/575706419187357/photos/a.575710522520280/742631399161524/?type=1&theater  Image Traditional Senegalese architecture",
+    "Description_NarrativeForPopup":"King of Almammy passed a law that made it illegal to take enslaved Africans from his kingdom.  He returned presents from French slave traders that were sent as bribes.  \"Because the King of Almammy was preparing for war at the sea with the French, the French paid Arab muslims in Mauritania to attack his Kingdom on land from behind. His kingdom was unfortunately defeated, however, his shining example of Afrikan morality in the face of evil lives forever.\" (image 1) https://www.facebook.com/575706419187357/photos/a.575710522520280/742631399161524/?type=1&theater  Image Traditional Senegalese architecture",
+    "Citations":"image 1: https://stock.adobe.com/search?k=%22toubab+dialaw%22\n(Have to buy it)",
+    "Resource Links":"",
+    "Long and Lat":"14.30574, -16.28708",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1HC6pvjxJQMDmll6QQiTd5Mq_DH8OBwAU",
+    "Notes":"occured in the Kingdom of Soloum, have to buy image"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.47702,16.00431 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800 Penn",
+    "Years":"1840-1860",
+    "Place":"Senegal-Gambia",
+    "Revolt Name":"",
+    "Description":"(Image 1) Queen Ndate Yalla Mbodj had a female army similar to that of Benin  She managed to resist the encroaching Moors and the French over a period of twenty years.  Held onto her claim of the island of Boyo located in Mauritania.   “Today, we are invaded by the conquerors.  Our army is in disarray.  The Tiedos of the Waalo, as brave warriors as they are, have almost all fallen under the enemy’s bullets.  The invader is stronger than us, I know, but should we abandon the Waalo to foreign hands?” https://africaheritages.wordpress.com/2016/09/07/queen-ndate-yalla-africas-last-queen-resistant/",
+    "Description_NarrativeForPopup":"(Image 1) Queen Ndate Yalla Mbodj had a female army similar to that of Benin  She managed to resist the encroaching Moors and the French over a period of twenty years.  Held onto her claim of the island of Boyo located in Mauritania.   “Today, we are invaded by the conquerors.  Our army is in disarray.  The Tiedos of the Waalo, as brave warriors as they are, have almost all fallen under the enemy’s bullets.  The invader is stronger than us, I know, but should we abandon the Waalo to foreign hands?” https://africaheritages.wordpress.com/2016/09/07/queen-ndate-yalla-africas-last-queen-resistant/",
+    "Citations":"Senegal. (2021, December 9). In Wikipedia. https://wo.wikipedia.org/wiki/Senegaal (Public domain)\n\nhttps://africaheritages.wordpress.com/2016/09/07/queen-ndate-yalla-africas-last-queen-resistant/",
+    "Resource Links":"https://en.wikipedia.org/wiki/Ndat%C3%A9_Yalla_Mbodj",
+    "Long and Lat":"16.00431, -16.47702",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/15Kyw6PitJ2xljGpbbA-RWxr-g5Tjz4MS",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7281,18.3368 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1733",
+    "Place":"St. John (Akwamu)",
+    "Revolt Name":"",
+    "Description":"(Image 1) The revolt in St. John was one of the longest lasting revolts led by an identifiable ethnic group , the Amina from the Gold Coast of Africa whose goal was to take over the island and maintain slave production under their rule.  (Image 2)There were events leading up to the revolt of natural disastors: (Image 3) a drought; infestation that led to the destruction of crops and starvation.  To prevent the Africans from running away, more stringent controls were enforced that led to the eventual revolt.  Most whites fled the island, in particular those who were warned by their loyal Blacks. (Image 4) The Dutch illicited the support of the British colonies from Tortola and St. Kitts to quell the revolt but they were unsuccessful-it was the role of the Free Negro Corps infantry in combination with the French that led to their defeat.  In the end over 48 plantations out of 92 were destroyed-87 Blacks and 29 whites were killed.  The leader was asked to surrender and a deal would ensue; however, as soon as he did he was murdered.  Other rebels committed suicide rather than to face capture. (Image 5 & ^) Lori Lee in Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006, pp. 435-437.",
+    "Description_NarrativeForPopup":"(Image 1) The revolt in St. John was one of the longest lasting revolts led by an identifiable ethnic group , the Amina from the Gold Coast of Africa whose goal was to take over the island and maintain slave production under their rule.  (Image 2)There were events leading up to the revolt of natural disastors: (Image 3) a drought; infestation that led to the destruction of crops and starvation.  To prevent the Africans from running away, more stringent controls were enforced that led to the eventual revolt.  Most whites fled the island, in particular those who were warned by their loyal Blacks. (Image 4) The Dutch illicited the support of the British colonies from Tortola and St. Kitts to quell the revolt but they were unsuccessful-it was the role of the Free Negro Corps infantry in combination with the French that led to their defeat.  In the end over 48 plantations out of 92 were destroyed-87 Blacks and 29 whites were killed.  The leader was asked to surrender and a deal would ensue; however, as soon as he did he was murdered.  Other rebels committed suicide rather than to face capture. (Image 5 & ^) Lori Lee in Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006, pp. 435-437.",
+    "Citations":"Image 1: https://www.socialscienceandhistory12.com/2020/07/historyviii-lesson-3-ruling-countryside.html (The slave Revolt in Saint Domingue, August 1791)\nimage2:https://face2faceafrica.com/article/the-story-of-breffu-a-female-slave-from-ghana-who-led-a-massive-slave-revolt-to-take-over-the-west-indies-in-1733\nimage3:https://newafrikan77.wordpress.com/page/116/?wref=pil\nimage5:http://valeriesims.com/slave-revolt-st-jan-danish-west-indies-1733/\nimage5:https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiW1aTCld7mAhVSmuAKHdyhDNMQjB16BAgBEAM&url=https%3A%2F%2Fface2faceafrica.com%2Farticle%2Fthe-story-of-breffu-a-female-slave-from-ghana-who-led-a-massive-slave-revolt-to-take-over-the-west-indies-in-1733&psig=AOvVaw2kUat43BbXgceSxTeemhAI&ust=1577812426527547\nimage6:https://blackartblog.blackartdepot.com/black-history/akwamu-slave-revolt-1733.html",
+    "Resource Links":"https://youtu.be/x7CcJ7wppII",
+    "Long and Lat":"18.3368° N, 64.7281° W",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1rwtkOYd36_u32g3xcHEWfUg7hVwh2qtC?usp=share_link",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.9789,13.9094 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1700",
+    "Years":"1795",
+    "Place":"St. Lucia",
+    "Revolt Name":"Battle of Rabot-Brigands War.",
+    "Description":"(insert image) A mulatto woman, Flore Bois Gaillard was a major strategist in the Battle of Rabot.  She teamed up with a group of newly freed slaves called the Brigands, defeated the British and drove all whites off the island, they left the coloureds alone like in Haiti http://saintluciamissionun.org/about-saint-lucia/ and https://www.stlucianewsonline.com/saint-lucian-woman-defeated-and-expeled-british-in-1700s/",
+    "Description_NarrativeForPopup":"(insert image) A mulatto woman, Flore Bois Gaillard was a major strategist in the Battle of Rabot.  She teamed up with a group of newly freed slaves called the Brigands, defeated the British and drove all whites off the island, they left the coloureds alone like in Haiti http://saintluciamissionun.org/about-saint-lucia/ and https://www.stlucianewsonline.com/saint-lucian-woman-defeated-and-expeled-british-in-1700s/",
+    "Citations":"https://face2faceafrica.com/article/how-a-saint-lucian-woman-led-an-army-to-defeat-and-expel-the-british-in-the-1700s St Lucia stamp in honor of the 1797 Battle of Rabot\n\nJohnson, Elizabeth Ofosuah. “How a Saint Lucian Woman Led an Army to Defeat and Expel the British in the 1700s.” Face2Face Africa, 25 Mar. 2020, https://face2faceafrica.com/article/how-a-saint-lucian-woman-led-an-army-to-defeat-and-expel-the-british-in-the-1700s.",
+    "Resource Links":"http://saintluciamissionun.org/about-saint-lucia/ and https://www.stlucianewsonline.com/saint-lucian-woman-defeated-and-expeled-british-in-1700s/",
+    "Long and Lat":"13.9094° N, 60.9789° W",
+    "Long and Lat Precise or Approximation":"",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1mhL3Q7vERnPW6FdIY3ftyPkGW91RPgaq",
+    "Notes":"same image appeared thrice"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.3431,-0.58972 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1840-1841",
+    "Place":"Sumatra, Indonesia",
+    "Revolt Name":"",
+    "Description":"(Image 1) A series of mutinees by conscripted Africans into the Dutch military.  They were told they would be treated equal to the white soldiers which undermines the major pillar of slavery-here we see the conflicts of the African regiments, mentally they identified with the whites in being superior to other Africans; yet, were seen by the colonials as less than.  The mutinees began when they realized that the whites were treated better and began over the former receiving better mattresses, food, munitions, etc.  Those captured were relegated to slave treatment being whipped and imprisoned.  Ineke van Kessel, \"African mutinies in the Netherlands East Indies: A nineteenth-century colonial paradox in, Jon Abbink, Mirjam de Bruijn and Klaas van Walraven, eds.  Rethinking Resistance: Revolt and Violence in African History, Brill: 2003.",
+    "Description_NarrativeForPopup":"(Image 1) A series of mutinees by conscripted Africans into the Dutch military.  They were told they would be treated equal to the white soldiers which undermines the major pillar of slavery-here we see the conflicts of the African regiments, mentally they identified with the whites in being superior to other Africans; yet, were seen by the colonials as less than.  The mutinees began when they realized that the whites were treated better and began over the former receiving better mattresses, food, munitions, etc.  Those captured were relegated to slave treatment being whipped and imprisoned.  Ineke van Kessel, \"African mutinies in the Netherlands East Indies: A nineteenth-century colonial paradox in, Jon Abbink, Mirjam de Bruijn and Klaas van Walraven, eds.  Rethinking Resistance: Revolt and Violence in African History, Brill: 2003.",
+    "Citations":"https://blog.ernste.net/tag/goudkust/ Portrait of Jan Kooij (Public domain)\n\nIneke van Kessel, \"African mutinies in the Netherlands East Indies: A nineteenth-century colonial paradox in, Jon Abbink, Mirjam de Bruijn and Klaas van Walraven, eds.  Rethinking Resistance: Revolt and Violence in African History, Brill: 2003.",
+    "Resource Links":"https://www.eaumf.org/ejm-blog/2017/5/26/african-soldiers-mutinies",
+    "Long and Lat":"-0.58972, 101.3431",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/18Zg86aJmaeJ_HHeKqGNHAxSRIiRCSrVG",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6131,0.1864 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1500",
+    "Years":"1595",
+    "Place":"São Tomé, Brazil",
+    "Revolt Name":"Amador",
+    "Description":"(insertimage)1544 a slave ship sank south of the island of São Tomé, the escaped settled in S. João dos Angolares. For several centuries they led a parallel life, also seizing from time to time the riches stored by others. (insertimage1)Armed with bows and spears and speaking a Bantu language, Amador becomes the hero of São Tomé by conquering power in 1595. He was able to maintain power for a while until the Portuguese managed to recapture it. 4th of January of 1596 became a National Holiday.(insertimage2)In terms of size, duration, and impact, this can be considered one of the biggest slave revolts in all of Atlantic history. Around 5000 blacks involved, which corresponded to half the slave population of the time in the island. Amador is still present in everyone's memory, and his profile is currently on all the banknotes of the country's currency, the duplicate, da dobra(insertimage3). This adventure is reminiscent of the quilombos of Brazil but unlike what happened in Portuguese-speaking America the Angolares kept their freedom for a long time. Images and text by: Raquel Lima",
+    "Description_NarrativeForPopup":"(insertimage)1544 a slave ship sank south of the island of São Tomé, the escaped settled in S. João dos Angolares. For several centuries they led a parallel life, also seizing from time to time the riches stored by others. (insertimage1)Armed with bows and spears and speaking a Bantu language, Amador becomes the hero of São Tomé by conquering power in 1595. He was able to maintain power for a while until the Portuguese managed to recapture it. 4th of January of 1596 became a National Holiday.(insertimage2)In terms of size, duration, and impact, this can be considered one of the biggest slave revolts in all of Atlantic history. Around 5000 blacks involved, which corresponded to half the slave population of the time in the island. Amador is still present in everyone's memory, and his profile is currently on all the banknotes of the country's currency, the duplicate, da dobra(insertimage3). This adventure is reminiscent of the quilombos of Brazil but unlike what happened in Portuguese-speaking America the Angolares kept their freedom for a long time. Images and text by: Raquel Lima",
+    "Citations":"Image 1: https://squaredawayblog.bc.edu/squared-away/going-abroad-is-currency-a-work-of-art/ Sao Tomean Dobra\nImage 2: https://eportuguese.blogspot.com/2012/05/rei-amador-sao-tome-e-principe.html Bust of the Amateur King",
+    "Resource Links":"not yet found",
+    "Long and Lat":"0.1864° N, 6.6131° E",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1ytDKTvX75wh-KCHNrZk9fsjE-FvqnCqx?usp=sharing",
+    "Notes":"only two image citations found"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.96995,35.91537 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1842",
+    "Place":"Tahlequah, Oklahoma",
+    "Revolt Name":"",
+    "Description":"(Image 1) By 1860 the Cherokee owned 4,600 slaves who performed most of the physical labor, they also served as interpreters and translators thereby forming a \"bridge to white society... Twenty-five slaves locked their masters and overseers in their homes and cabins while they slept.  The slaves stole guns, horses, mules, ammunition, food and supplies...\" and headed towards Mexico where slavery was illegal.  The militia caught up with them and returned them to Tahlequah, five slaves were executed the rest were assigned to work on steamboats.  The Cherokee blamed the free Blacks for inciting the rebellion and passed a law making all the free Blacks leave the territory. Source: okhistory.org",
+    "Description_NarrativeForPopup":"(Image 1) By 1860 the Cherokee owned 4,600 slaves who performed most of the physical labor, they also served as interpreters and translators thereby forming a \"bridge to white society... Twenty-five slaves locked their masters and overseers in their homes and cabins while they slept.  The slaves stole guns, horses, mules, ammunition, food and supplies...\" and headed towards Mexico where slavery was illegal.  The militia caught up with them and returned them to Tahlequah, five slaves were executed the rest were assigned to work on steamboats.  The Cherokee blamed the free Blacks for inciting the rebellion and passed a law making all the free Blacks leave the territory. Source: okhistory.org",
+    "Citations":"Crazy Horse Memorial. (2022, November 27). In Wikipedia. https://en.wikipedia.org/wiki/Crazy_Horse_Memorial Taken by Mike Tigas on August 16, 2009 at Custer, South Dakota, United States.",
+    "Resource Links":"http://www.freerepublic.com/focus/news/655380/posts  https://www.okhistory.org/publications/enc/entry.php?entry=SL002#:~:text=On%20the%20morning%20of%20November,ammunition%2C%20food%2C%20and%20supplies.",
+    "Long and Lat":"35.91537, -94.96995",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/14OSs3TCuHIk-WURBM0Hjh-5O0iYMKSAI",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.90311,31.97926 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1835-1837",
+    "Place":"Texas",
+    "Revolt Name":"",
+    "Description":"(Image 1) There was a Black rebellion in 1835 to seize the land.  \"Though whites retaliated by rounding up, whipping, and hanging slaves, fears of insurrection continued as Texas military fortunes waned.\"...the crisis passed...but gangs of runaways participated with Indians and Mexicans in a guerilla-like warfare for the remainder of the decade... (IMage 2) A supposed slave-Mexican coalition also aroused anxiety in 1856\" ...resulting in the death of three blacks, whipping of a white abolitionist and the eviction of the entire population of Mexicans, \"charging them with incendiary provocations.\" Source: tshaonline.org",
+    "Description_NarrativeForPopup":"(Image 1) There was a Black rebellion in 1835 to seize the land.  \"Though whites retaliated by rounding up, whipping, and hanging slaves, fears of insurrection continued as Texas military fortunes waned.\"...the crisis passed...but gangs of runaways participated with Indians and Mexicans in a guerilla-like warfare for the remainder of the decade... (IMage 2) A supposed slave-Mexican coalition also aroused anxiety in 1856\" ...resulting in the death of three blacks, whipping of a white abolitionist and the eviction of the entire population of Mexicans, \"charging them with incendiary provocations.\" Source: tshaonline.org",
+    "Citations":"Image 2: https://en.wikipedia.org/wiki/Antebellum_South#/media/File:Family_of_slaves_in_Georgia,_circa_1850.jpg (Public domain)\n\ntshaonline.org",
+    "Resource Links":"http://www.tn.gov/tsla/exhibits/blackhistory/aahtimelin.htm https://www.tshaonline.org/handbook/entries/slave-insurrections",
+    "Long and Lat":"31.97926, -99.90311",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1PZ6jSMeR0nkeQVwtUavTxU4iQuS4OIhi",
+    "Notes":"no citation for image 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.2225,10.6918 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1822",
+    "Place":"Trinidad",
+    "Revolt Name":"",
+    "Description":"A slave rebellion occurred on the Plein Palais Estate because of the harsh working conditions, the slaves demanded a three day holiday and enquired when they would be set free( insert image 1) , the manager refused to assure them so they set the estate on fire. \"Many died from the raging flames and others were shot when the militia appeared on the scene...\" (insert image 2) .  \"Three of the leaders were beheaded with an axe in Woodford Square. (insert image 3) Their heads were exposed in the Square, and their bodies hung in chains on the various estates where slave societies existed.  It took four years to crush the remnants of the rebellion.\" (insert image 4) Source: workersunion.org.tt",
+    "Description_NarrativeForPopup":"A slave rebellion occurred on the Plein Palais Estate because of the harsh working conditions, the slaves demanded a three day holiday and enquired when they would be set free( insert image 1) , the manager refused to assure them so they set the estate on fire. \"Many died from the raging flames and others were shot when the militia appeared on the scene...\" (insert image 2) .  \"Three of the leaders were beheaded with an axe in Woodford Square. (insert image 3) Their heads were exposed in the Square, and their bodies hung in chains on the various estates where slave societies existed.  It took four years to crush the remnants of the rebellion.\" (insert image 4) Source: workersunion.org.tt",
+    "Citations":"Image 1: https://brianurse.wordpress.com/relics-at-the-speyside/ Speyside watermill and boiling house ruins 1928.photographs by Brian Nurse\nImage 3: https://www.seattletimes.com/nation-world/old-south-grandeur-leavened-with-a-cold-look-at-slavery/ This July 14, 2017 photo shows a memorial by Woodrow Nash for the German Coast Uprising at the Whitney Plantation in Edgard, La. After the uprising, slaves who participated were tried and executed. Their heads were placed in public view along the Mississippi River, to serve as a warning to others. (AP Photo/Gerald Herbert)",
+    "Resource Links":"",
+    "Long and Lat":"10.6918, -61.2225",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1wm7h9tij9AUNJAI53QaSBGAhvEW5Su1W",
+    "Notes":"citation not complete( image 2 and 4)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.58973,6.42375 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1812",
+    "Place":"Venezuela",
+    "Revolt Name":"",
+    "Description":"\"African slaves...take advantage of the whites' struggle for independence from Spain to launch a revolt against their masters; the revolt was quelled and slavery was not abolished in Venezuela until 1854\".   The Creoles suffered two major defeats by the Spanish due to their refusal to abolish slavery.  They wanted to maintain the system and were afraid of a race war.  In the second battle, the Creoles had to divert their forces aginst the Spanish to put down slave revolts.  It is not until  Simon Bolivar returns to Venezuela after being exiled, that reforms were made for the gradual emancipation of the enslaved. ( insert image 2 ) (insert image 3)Ronald Young in  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006:, pp. 555-556.",
+    "Description_NarrativeForPopup":"\"African slaves...take advantage of the whites' struggle for independence from Spain to launch a revolt against their masters; the revolt was quelled and slavery was not abolished in Venezuela until 1854\".   The Creoles suffered two major defeats by the Spanish due to their refusal to abolish slavery.  They wanted to maintain the system and were afraid of a race war.  In the second battle, the Creoles had to divert their forces aginst the Spanish to put down slave revolts.  It is not until  Simon Bolivar returns to Venezuela after being exiled, that reforms were made for the gradual emancipation of the enslaved. ( insert image 2 ) (insert image 3)Ronald Young in  Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006:, pp. 555-556.",
+    "Citations":"Image 2: https://commons.wikimedia.org/wiki/File:San_Benito_de_Palermo_en_Bobure.JPG Public domain(From Wilfredor)\nImage 3: https://aaregistry.org/story/abolitionism-in-south-america-a-brief-story/ \n\nRonald Young in Encyclopedia of Slave Resistance and Rebellion, Junius Rodriguez ,eds. Greenwood Press: 2006:, pp. 555-556.",
+    "Resource Links":"",
+    "Long and Lat":"6.42375, -66.58973",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/12K6XIlQ4xtdz4GBeQ1qI3wrEXe3TsKPk",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.1342,19.1738 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1500",
+    "Years":"1570",
+    "Place":"Veracruz, Mexico",
+    "Revolt Name":"",
+    "Description":"(Insert Image) Gasper Yanga, a descendant of royalty from Gabon, led a revolt against the Spanish in 1570. There were a series of uprisings between 1540 and 1600 against the Spanish crown, but what distinguishes this one is that it successfully created a settlement of freed Africans, the first one in the Americas, established in 1630. At its peak, there were up to 500 African and Indian settlers in the Maroon that was initially named San Lorenzo de los Negros and renamed Yanga in 1932. The Spanish made many failed attempts to subdue the Africans, leading to a treaty signed in 1608 that held, among other things, that those in the settlement at that time would remain free, but anyone coming after 1608 would be returned to their masters.",
+    "Description_NarrativeForPopup":"(Insert Image) Gasper Yanga, a descendant of royalty from Gabon, led a revolt against the Spanish in 1570. There were a series of uprisings between 1540 and 1600 against the Spanish crown, but what distinguishes this one is that it successfully created a settlement of freed Africans, the first one in the Americas, established in 1630. At its peak, there were up to 500 African and Indian settlers in the Maroon that was initially named San Lorenzo de los Negros and renamed Yanga in 1932. The Spanish made many failed attempts to subdue the Africans, leading to a treaty signed in 1608 that held, among other things, that those in the settlement at that time would remain free, but anyone coming after 1608 would be returned to their masters.",
+    "Citations":"image1: http://leopoldest.blogspot.com/2016/11/pedro-centeno-vallenilla-pintor-de-la.html",
+    "Resource Links":"https://atlantablackstar.com/2016/05/19/watch-how-afro-mexican-freedom-fighter-gaspar-yanga-help-freed-enslaved-africans-in-mexico-in-this-animated-web-series/",
+    "Long and Lat":"19.1738° N, 96.1342° W",
+    "Long and Lat Precise or Approximation":"Precise",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1Hp6YjsmrOH8cUh5tI9Vu_b08MsoPuC8L?usp=sharing",
+    "Notes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.783333,-5.166667 ]
+    },
+    "properties": {
+    "Has PP?":"Y",
+    "Prelim 40 points?":"Y",
+    "Complete?":"FALSE",
+    "Column":"1800",
+    "Years":"1840",
+    "Place":"Zanzibar",
+    "Revolt Name":"",
+    "Description":"(Image 1) \"In 1840, Sultan Sayyid Said moved his capital from Arabia to Zanzibar and made it the largest slave market in East Africa, exporting an estimated seventy thousand slaves annually during the 1860's...With plantation slaves alone comprising more than 50 percent of the islands' populations...these islands became true slave societies.  Major slave rebellions broke out on both islands (Pemba)...and were quickly suppressed.\"  Johannes Postma, Slave Revolts, Westport: Greenwich, 2008, p. 43.",
+    "Description_NarrativeForPopup":"(Image 1) \"In 1840, Sultan Sayyid Said moved his capital from Arabia to Zanzibar and made it the largest slave market in East Africa, exporting an estimated seventy thousand slaves annually during the 1860's...With plantation slaves alone comprising more than 50 percent of the islands' populations...these islands became true slave societies.  Major slave rebellions broke out on both islands (Pemba)...and were quickly suppressed.\"  Johannes Postma, Slave Revolts, Westport: Greenwich, 2008, p. 43.",
+    "Citations":"image1:http://slaveryimages.org/s/slaveryimages/item/2729\n\n\nJohannes Postma, Slave Revolts, Westport: Greenwich, 2008, p. 43.",
+    "Resource Links":"",
+    "Long and Lat":"-5.166667, 39.783333",
+    "Long and Lat Precise or Approximation":"Approximate",
+    "Presentation Folder":"https://drive.google.com/drive/folders/1W2Gm9nZ88F441YDzy8pQpGDxczJ9Dhs-",
+    "Notes":""
+    }
+  }
+]
+}
