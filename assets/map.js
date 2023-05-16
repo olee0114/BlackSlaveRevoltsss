@@ -32,7 +32,7 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
     pointToLayer: function(feature, latlng) {
       return new L.CircleMarker(latlng, {
         radius:8,
-        color: getColor(feature)
+        color: getColor(feature),
       });
     },
     onEachFeature: addSidebar
@@ -58,11 +58,12 @@ function addSidebar (feature, layer) {
 
         layer.on('click', function (e) {
           let SB = document.getElementById("sidebar");
-            SB.innerHTML = '<html>' + '<h1>' + feature.properties["Year to Display"] +
-            '</h1>' + '<h2>' + feature.properties["Place"] + '<br></br>' + feature.properties["Revolt Name"] +'</h2>'
+            SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
+            '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["Year to Display"] + '</i></h5><h3>' + feature.properties["Revolt Name"] +'</h3>'
            + '<h2 style="text-align: left;">' + feature.properties["Description"] + '</h2>' + '</html>';
         });
     }
+
 
 function getColor(feature){
   switch (feature.properties["Century"]) {
