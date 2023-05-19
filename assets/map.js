@@ -81,7 +81,7 @@ function getColor(feature){
             default:
               return 'black';
           }
-        }
+        } 
 
 
 
