@@ -1,12 +1,11 @@
-let wphys = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
-  attribution: 'Tiles &copy; Esri &mdash; Source: US National Park Service',
-  maxZoom: 8
-});
-
 let wtopo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
   attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
 });
 
+let wphys = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
+  attribution: 'Tiles &copy; Esri &mdash; Source: US National Park Service',
+  maxZoom: 8
+});
 
 let map = L.map('map', {
   layers: [wphys, wtopo]
@@ -22,7 +21,7 @@ let baseMaps = {
 
 let layerControl = L.control.layers(baseMaps).addTo(map);
 
-L.tileLayer.provider('Esri.WorldTopoMap', 'Esri.WorldPhysical').addTo(map);
+L.tileLayer.provider('Esri.WorldPhysical','Esri.WorldTopoMap').addTo(map);
 
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
   
