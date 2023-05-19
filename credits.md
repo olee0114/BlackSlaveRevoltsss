@@ -1,4 +1,0 @@
----
-title: Credits
-layout: page
----
