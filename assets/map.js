@@ -11,6 +11,7 @@ let map = L.map('map', {
   layers: [wphys, wtopo]
 });
 
+
 map.setView([16.23866202852162, -2.362826680216191], 3);
 
 
@@ -34,7 +35,7 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
         color: getColor(feature),
       });
     },
-    onEachFeature: addSidebar
+    onEachFeature: PointActions
     
   });
 
@@ -43,14 +44,14 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 });
 
 
-function addSidebar (feature, layer) {
+function PointActions (feature, layer) {
 
     let SB = document.getElementById("sidebar"), displayValue = "";
         
         layer.on('click', function (e) {
              if (SB.style.display == "none")
                   displayValue = "";
-                if (SB.style.display == "")
+             if (SB.style.display == "")
                   displayValue = "none";
                 SB.style.display = displayValue;
         });
@@ -61,6 +62,11 @@ function addSidebar (feature, layer) {
             '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["Year to Display"] + '</i></h5><h3>' + feature.properties["Revolt Name"] +'</h3>'
            + '<h2 style="text-align: left;">' + feature.properties["Description"] + '</h2>' + '</html>';
         });
+
+        layer.on('click', function(e) {
+            map.setView(e.latlng, 6);
+        });
+
     }
 
 
