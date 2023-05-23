@@ -43,31 +43,63 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 });
 
+let CurrentPoint;
 
 function PointActions (feature, layer) {
 
     let SB = document.getElementById("sidebar"), displayValue = "";
         
         layer.on('click', function (e) {
-             if (SB.style.display == "none")
-                  displayValue = "";
-             if (SB.style.display == "")
-                  displayValue = "none";
-                SB.style.display = displayValue;
-        });
-
-        layer.on('click', function (e) {
-          let SB = document.getElementById("sidebar");
-            SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
+          let NewPoint = feature.properties["Description"];
+             if (SB.style.display == "none") {
+              console.log('no point yet!')
+              SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
             '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["Year to Display"] + '</i></h5><h3>' + feature.properties["Revolt Name"] +'</h3>'
            + '<h2 style="text-align: left;">' + feature.properties["Description"] + '</h2>' + '</html>';
-        });
 
-        layer.on('click', function(e) {
-            map.setView(e.latlng, 6);
-        });
+              SB.style.display == ""
+                }
+             if (SB.style.display == "") {
+              console.log('a point?!')
+                let SB = document.getElementById("sidebar");
 
-    }
+                 SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
+            '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["Year to Display"] + '</i></h5><h3>' + feature.properties["Revolt Name"] +'</h3>'
+           + '<h2 style="text-align: left;">' + feature.properties["Description"] + '</h2>' + '</html>';
+                  CurrentPoint = NewPoint;
+                  SB.style.display = "none";
+                }
+             if (SB.style.display == "" && CurrentPoint == NewPoint){
+                  displayValue = "none";
+                SB.style.display = displayValue;
+              }
+        });
+      }
+
+// function PointActions (feature, layer) {
+
+//     let SB = document.getElementById("sidebar"), displayValue = "";
+        
+//         layer.on('click', function (e) {
+//              if (SB.style.display == "none")
+//                   displayValue = "";
+//              if (SB.style.display == "")
+//                   displayValue = "none";
+//                 SB.style.display = displayValue;
+//         });
+
+//         layer.on('click', function (e) {
+//           let SB = document.getElementById("sidebar");
+//             SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
+//             '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["Year to Display"] + '</i></h5><h3>' + feature.properties["Revolt Name"] +'</h3>'
+//            + '<h2 style="text-align: left;">' + feature.properties["Description"] + '</h2>' + '</html>';
+//         });
+
+//         layer.on('click', function(e) {
+//             map.setView(e.latlng, 6);
+//         });
+
+//     }
 
 
 function getColor(feature){
