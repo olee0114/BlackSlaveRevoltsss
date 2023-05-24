@@ -43,63 +43,47 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 });
 
-let CurrentPoint;
+let CurrentPoint; //initialize variable that will hold the current point value
 
 function PointActions (feature, layer) {
 
     let SB = document.getElementById("sidebar"), displayValue = "";
         
         layer.on('click', function (e) {
-          let NewPoint = feature.properties["Description"];
-             if (SB.style.display == "none") {
-              console.log('no point yet!')
-              SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
-            '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["Year to Display"] + '</i></h5><h3>' + feature.properties["Revolt Name"] +'</h3>'
-           + '<h2 style="text-align: left;">' + feature.properties["Description"] + '</h2>' + '</html>';
+            let NewPoint = feature.properties["Description"]; //declare variable that holds the new point value when a new click event happens
 
-              SB.style.display == ""
-                }
-             if (SB.style.display == "") {
-              console.log('a point?!')
-                let SB = document.getElementById("sidebar");
-
-                 SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
-            '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["Year to Display"] + '</i></h5><h3>' + feature.properties["Revolt Name"] +'</h3>'
-           + '<h2 style="text-align: left;">' + feature.properties["Description"] + '</h2>' + '</html>';
+              //if sidebar is hidden, set displayValue to "".
+              //save the value of newPoint in the currentPoint variable
+             if (SB.style.display == "none"){
+                  displayValue = "";
                   CurrentPoint = NewPoint;
-                  SB.style.display = "none";
                 }
-             if (SB.style.display == "" && CurrentPoint == NewPoint){
-                  displayValue = "none";
-                SB.style.display = displayValue;
-              }
+              //if sidebar is visible + currentPoint doesn't equal newPoint, that means a new point has been clicked
+              //therefore hide the sidebar
+             if (SB.style.display == "" && CurrentPoint !== NewPoint){
+                  displayValue = "";
+                }
+              //if the sidebar is visible and currentPoint is the same as newPoint, the same point has been clicked twice
+              //therefore, hide the sidebar
+            if (SB.style.display == "" && CurrentPoint == NewPoint){
+                   displayValue = "none";
+               }
+            //outside of the if-statement, set the sidebar.style.display equal to displayValue
+            SB.style.display = displayValue;
         });
-      }
 
-// function PointActions (feature, layer) {
+        layer.on('click', function (e) {
+          let SB = document.getElementById("sidebar");
+            SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
+            '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["Year to Display"] + '</i></h5><h3>' + feature.properties["Revolt Name"] +'</h3>'
+           + '<h2 style="text-align: left;">' + feature.properties["Description"] + '</h2>' + '</html>';
+        });
 
-//     let SB = document.getElementById("sidebar"), displayValue = "";
-        
-//         layer.on('click', function (e) {
-//              if (SB.style.display == "none")
-//                   displayValue = "";
-//              if (SB.style.display == "")
-//                   displayValue = "none";
-//                 SB.style.display = displayValue;
-//         });
+        layer.on('click', function(e) {
+            map.setView(e.latlng, 6);
+        });
 
-//         layer.on('click', function (e) {
-//           let SB = document.getElementById("sidebar");
-//             SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
-//             '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["Year to Display"] + '</i></h5><h3>' + feature.properties["Revolt Name"] +'</h3>'
-//            + '<h2 style="text-align: left;">' + feature.properties["Description"] + '</h2>' + '</html>';
-//         });
-
-//         layer.on('click', function(e) {
-//             map.setView(e.latlng, 6);
-//         });
-
-//     }
+    }
 
 
 function getColor(feature){
