@@ -43,17 +43,33 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 });
 
+let CurrentPoint; //initialize variable that will hold the current point value
 
 function PointActions (feature, layer) {
 
     let SB = document.getElementById("sidebar"), displayValue = "";
         
         layer.on('click', function (e) {
-             if (SB.style.display == "none")
+            let NewPoint = feature.properties["Description"]; //declare variable that holds the new point value when a new click event happens
+
+              //if sidebar is hidden, set displayValue to "".
+              //save the value of newPoint in the currentPoint variable
+             if (SB.style.display == "none"){
                   displayValue = "";
-             if (SB.style.display == "")
-                  displayValue = "none";
-                SB.style.display = displayValue;
+                  CurrentPoint = NewPoint;
+                }
+              //if sidebar is visible + currentPoint doesn't equal newPoint, that means a new point has been clicked
+              //therefore hide the sidebar
+             if (SB.style.display == "" && CurrentPoint !== NewPoint){
+                  displayValue = "";
+                }
+              //if the sidebar is visible and currentPoint is the same as newPoint, the same point has been clicked twice
+              //therefore, hide the sidebar
+            if (SB.style.display == "" && CurrentPoint == NewPoint){
+                   displayValue = "none";
+               }
+            //outside of the if-statement, set the sidebar.style.display equal to displayValue
+            SB.style.display = displayValue;
         });
 
         layer.on('click', function (e) {
