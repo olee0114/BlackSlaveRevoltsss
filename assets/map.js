@@ -11,25 +11,14 @@ let map = L.map('map', {
   layers: [wphys, wtopo]
 });
 
-
-map.setView([16.23866202852162, -2.362826680216191], 3);
-
-
-let baseMaps = {
-    "Physical": wphys,
-    "Boundaries/Places": wtopo
-};
-
-let layerControl = L.control.layers(baseMaps).addTo(map);
-
-L.tileLayer.provider('Esri.WorldPhysical','Esri.WorldTopoMap').addTo(map);
-
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
   
-  
-  let revoltsites = L.geoJson(data, {
-    
-    pointToLayer: function(feature, latlng) {
+  let fourLayer = L.geoJson(data, {
+
+  filter: function(feature, layer) {
+    return (feature.properties["Century"] === "1400");},
+
+  pointToLayer: function(feature, latlng) {
       return new L.CircleMarker(latlng, {
         radius:8,
         color: getColor(feature),
@@ -39,9 +28,158 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
     
   });
 
-  revoltsites.addTo(map);
+   fourLayer.addTo(map);
 
 });
+
+$.getJSON("assets/SlaveRevolts.geojson", function(data){
+
+ let fiveLayer = L.geoJson(data, {
+
+  filter: function(feature, layer) {
+    return (feature.properties["Century"] === "1500");},
+
+  pointToLayer: function(feature, latlng) {
+      return new L.CircleMarker(latlng, {
+        radius:8,
+        color: getColor(feature),
+      });
+    },
+    onEachFeature: PointActions
+    
+  });
+
+   fiveLayer.addTo(map);
+
+});
+
+$.getJSON("assets/SlaveRevolts.geojson", function(data){
+
+
+  let sixLayer = L.geoJson(data, {
+
+  filter: function(feature, layer) {
+    return (feature.properties["Century"] === "1600");},
+
+  pointToLayer: function(feature, latlng) {
+      return new L.CircleMarker(latlng, {
+        radius:8,
+        color: getColor(feature),
+      });
+    },
+    onEachFeature: PointActions
+    
+  });
+
+ sixLayer.addTo(map);
+
+});
+
+$.getJSON("assets/SlaveRevolts.geojson", function(data){
+
+
+  let sevenLayer = L.geoJson(data, {
+
+  filter: function(feature, layer) {
+    return (feature.properties["Century"] === "1700");},
+
+  pointToLayer: function(feature, latlng) {
+      return new L.CircleMarker(latlng, {
+        radius:8,
+        color: getColor(feature),
+      });
+    },
+    onEachFeature: PointActions
+    
+  });
+
+  sevenLayer.addTo(map);
+
+});
+
+$.getJSON("assets/SlaveRevolts.geojson", function(data){
+
+
+  let eightLayer = L.geoJson(data, {
+
+  filter: function(feature, layer) {
+    return (feature.properties["Century"] === "1800");},
+
+  pointToLayer: function(feature, latlng) {
+      return new L.CircleMarker(latlng, {
+        radius:8,
+        color: getColor(feature),
+      });
+    },
+    onEachFeature: PointActions
+    
+  });
+
+ eightLayer.addTo(map);
+
+});
+
+$.getJSON("assets/SlaveRevolts.geojson", function(data){
+
+
+  let nineLayer = L.geoJson(data, {
+
+  filter: function(feature, layer) {
+    return (feature.properties["Century"] === "1900");},
+
+  pointToLayer: function(feature, latlng) {
+      return new L.CircleMarker(latlng, {
+        radius:8,
+        color: getColor(feature),
+      });
+    },
+    onEachFeature: PointActions
+    
+  });
+
+ nineLayer.addTo(map);
+
+});
+
+// let revoltsites = L.layerGroup([fourLayer, fiveLayer, sixLayer, sevenLayer, eightLayer, nineLayer);
+
+map.setView([16.23866202852162, -2.362826680216191], 3);
+
+let baseMaps = {
+    "Physical": wphys,
+    "Boundaries/Places": wtopo
+};
+
+// let overlayMaps = {
+//     "1400s": fourLayer,
+//     "1500s": fiveLayer,
+//     "1600s": sixLayer,
+//     "1700s": sevenLayer,
+//     "1800s": eightLayer,
+//     "1900+": nineLayer
+// };
+
+let layerControl = L.control.layers(baseMaps).addTo(map);
+
+// $.getJSON("assets/SlaveRevolts.geojson", function(data){
+  
+  
+//   let revoltsites = L.geoJson(data, {
+
+//     pointToLayer: function(feature, latlng) {
+//       return new L.CircleMarker(latlng, {
+//         radius:8,
+//         color: getColor(feature),
+//       });
+//     },
+//     onEachFeature: PointActions
+    
+//   });
+
+//   revoltsites.addTo(map);
+
+// });
+
 
 let CurrentPoint; //initialize variable that will hold the current point value
 
