@@ -2,6 +2,15 @@ let wtopo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Wo
   attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
 });
 
+let fourLayer;
+let fiveLayer;
+let sixLayer;
+let sevenLayer;
+let eightLayer;
+let nineLayer;
+
+let CurrentPoint; //initialize variable that will hold the current point value
+
 let wphys = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
   attribution: 'Tiles &copy; Esri &mdash; Source: US National Park Service',
   maxZoom: 8
@@ -13,7 +22,7 @@ let map = L.map('map', {
 
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
   
-  let fourLayer = L.geoJson(data, {
+ fourLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1400");},
@@ -34,7 +43,7 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
- let fiveLayer = L.geoJson(data, {
+ fiveLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1500");},
@@ -56,7 +65,7 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 
-  let sixLayer = L.geoJson(data, {
+  sixLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1600");},
@@ -77,8 +86,7 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
-
-  let sevenLayer = L.geoJson(data, {
+  sevenLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1700");},
@@ -100,7 +108,7 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 
-  let eightLayer = L.geoJson(data, {
+  eightLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1800");},
@@ -122,7 +130,7 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 
-  let nineLayer = L.geoJson(data, {
+  nineLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1900");},
@@ -150,16 +158,16 @@ let baseMaps = {
     "Boundaries/Places": wtopo
 };
 
-// let overlayMaps = {
-//     "1400s": fourLayer,
-//     "1500s": fiveLayer,
-//     "1600s": sixLayer,
-//     "1700s": sevenLayer,
-//     "1800s": eightLayer,
-//     "1900+": nineLayer
-// };
+let overlayMaps = {
+    "1400s": fourLayer,
+    "1500s": fiveLayer,
+    "1600s": sixLayer,
+    "1700s": sevenLayer,
+    "1800s": eightLayer,
+    "1900+": nineLayer
+};
 
-let layerControl = L.control.layers(baseMaps).addTo(map);
+let layerControl = L.control.layers(baseMaps,overlayMaps).addTo(map);
 
 // $.getJSON("assets/SlaveRevolts.geojson", function(data){
   
@@ -180,8 +188,6 @@ let layerControl = L.control.layers(baseMaps).addTo(map);
 
 // });
 
-
-let CurrentPoint; //initialize variable that will hold the current point value
 
 function PointActions (feature, layer) {
 
