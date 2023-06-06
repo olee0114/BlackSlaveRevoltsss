@@ -1,19 +1,24 @@
-let wtopo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+
+//define wtopo tile layer
+var wtopo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
   attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
 });
 
-let wphys = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
+//define wphys tile layer
+var wphys = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
   attribution: 'Tiles &copy; Esri &mdash; Source: US National Park Service',
   maxZoom: 8
 });
 
-let map = L.map('map', {
+//init map
+var map = L.map('map', {
   layers: [wphys, wtopo]
 });
 
+//define and draw 1400 layer markers with color swatch
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
   
-  let fourLayer = L.geoJson(data, {
+  var fourLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1400");},
@@ -32,9 +37,10 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 });
 
+//define and draw 1500 layer markers with color swatch
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
- let fiveLayer = L.geoJson(data, {
+ var fiveLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1500");},
@@ -53,10 +59,11 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 });
 
+//define and draw 1600 layer markers with color swatch
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 
-  let sixLayer = L.geoJson(data, {
+  var sixLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1600");},
@@ -75,10 +82,11 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 });
 
+//define and draw 1700 layer markers with color swatch
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 
-  let sevenLayer = L.geoJson(data, {
+  var sevenLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1700");},
@@ -97,10 +105,11 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 });
 
+//define and draw 1800 layer markers with color swatch
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 
-  let eightLayer = L.geoJson(data, {
+  var eightLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1800");},
@@ -119,10 +128,11 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 });
 
+//define and draw 1900 layer markers with color swatch
 $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 
-  let nineLayer = L.geoJson(data, {
+  var nineLayer = L.geoJson(data, {
 
   filter: function(feature, layer) {
     return (feature.properties["Century"] === "1900");},
@@ -143,8 +153,10 @@ $.getJSON("assets/SlaveRevolts.geojson", function(data){
 
 // let revoltsites = L.layerGroup([fourLayer, fiveLayer, sixLayer, sevenLayer, eightLayer, nineLayer);
 
+//set map initial loc and zoom
 map.setView([16.23866202852162, -2.362826680216191], 3);
 
+//layer control definitions and init
 let baseMaps = {
     "Physical": wphys,
     "Boundaries/Places": wtopo
@@ -183,6 +195,7 @@ let layerControl = L.control.layers(baseMaps).addTo(map);
 
 let CurrentPoint; //initialize variable that will hold the current point value
 
+//actions upon marker click
 function PointActions (feature, layer) {
 
     let SB = document.getElementById("sidebar"), displayValue = "";
@@ -223,7 +236,7 @@ function PointActions (feature, layer) {
 
     }
 
-
+//define color swatches for century vars
 function getColor(feature){
   switch (feature.properties["Century"]) {
             case '1400':
