@@ -1,4 +1,4 @@
-#sidebar {
+/*#sidebar {
     width: 20vw;
     height: 100vw;
     position: absolute;
@@ -13,4 +13,4 @@
     overflow: scroll;
     padding: 2vw;
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
- }
+/* }

@@ -137,7 +137,7 @@ div.M-container {
   flex-wrap: wrap;
 }
 
-.box{
+.box {
   display: inline-block;
   align-items: center;
   flex-wrap: wrap;
@@ -145,7 +145,7 @@ div.M-container {
   padding: 5px;
 }
 
-.box-b{
+.box-b {
   display: inline-block;
   align-items: center;
   flex-wrap: wrap;
@@ -252,6 +252,11 @@ h2.textbox {
    word-wrap: break-word; 
    overflow: scroll;
    padding: 2vw;
+   transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+}
+
+#sidebar-desc {
+  text-align: left;
 }
 
 
