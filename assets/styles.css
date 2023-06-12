@@ -254,5 +254,10 @@ h2.textbox {
    padding: 2vw;
 }
 
+.close{
+  float:right;
+  cursor:pointer;
+}
+
 
 

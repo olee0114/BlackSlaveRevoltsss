@@ -218,7 +218,7 @@ function PointActions (feature, layer) {
 
         layer.on('click', function (e) {
           let SB = document.getElementById("sidebar");
-            SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
+            SB.innerHTML = '<html>' + '<img class="close" src="/assets/imgs/noun-x.svg" onclick="closeSidebar()" width="30px" height="30px"><br><br>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["Place"] +
             '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["Year to Display"] + '</i></h5><h3>' + feature.properties["Revolt Name"] +'</h3>'
            + '<h2 style="text-align: left;">' + feature.properties["Description"] + '</h2>' + '</html>';
         });
@@ -229,6 +229,11 @@ function PointActions (feature, layer) {
 
     }
 
+//function to close the sidebar when the "x" in the upper right is clicked
+function closeSidebar(){
+  let SB = document.getElementById("sidebar");
+  SB.style.display = "none";
+}
 
 function getColor(feature){
   switch (feature.properties["Century"]) {
