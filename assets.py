@@ -93,6 +93,8 @@ with open('bsr_06122023_limited.csv', encoding='utf-8-sig') as csvfile:
             continue
         #if yes, save the 'unique_identifier' value, mkdir with that value as name, and put the downloads there
         else:
+            print("PRES FOLDER IS " + presentation_folder)
+            print(row)
             #grab the google folder id from the URL in the 'presentation_folder' column
             folder_id = str(presentation_folder).rsplit('/', 1)[1]
             folder_id = str(folder_id).split('?', 1)[0]
