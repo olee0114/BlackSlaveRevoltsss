@@ -11,9 +11,6 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from googleapiclient.http import MediaIoBaseDownload
 
-# ID can be obtained from the URL of the folder
-#folder_id = '1frxKcRZvUyX-qPzpAmqoNHqXMt8I9aJY'  # an example folder
-
 # If modifying these scopes, delete the file token.pickle.
 # SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly']
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
@@ -86,7 +83,7 @@ def files_download(folder_id, dest_dir, creds):
 creds = api_login()
 
 #read csv
-with open('bsr_06122023_limited_testset.csv', encoding='utf-8-sig') as csvfile:
+with open('/data/bsr_06122023_limited.csv', encoding='utf-8-sig') as csvfile:
     reader = csv.DictReader(csvfile)
     #loop: read whether the row has an entry in column 'presentation_folder'
     for row in reader:
@@ -100,7 +97,7 @@ with open('bsr_06122023_limited_testset.csv', encoding='utf-8-sig') as csvfile:
             folder_id = str(presentation_folder).rsplit('/', 1)[1]
             folder_id = str(folder_id).split('?', 1)[0]
             id_to_dir = row['unique_identifier']
-            dest_dir = my_directory + '/' + id_to_dir
+            dest_dir = my_directory + '/media/' + id_to_dir
             if not os.path.exists(dest_dir):
                 os.mkdir(dest_dir)
             files_download(folder_id, dest_dir, creds)
