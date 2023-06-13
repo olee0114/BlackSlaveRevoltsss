@@ -259,5 +259,10 @@ h2.textbox {
   text-align: left;
 }
 
+.close{
+  float:right;
+  cursor:pointer;
+}
+
 
 
