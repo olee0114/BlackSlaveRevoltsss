@@ -83,7 +83,7 @@ def files_download(folder_id, dest_dir, creds):
 creds = api_login()
 
 #read csv
-with open('/data/bsr_06122023_limited.csv', encoding='utf-8-sig') as csvfile:
+with open('bsr_06122023_limited.csv', encoding='utf-8-sig') as csvfile:
     reader = csv.DictReader(csvfile)
     #loop: read whether the row has an entry in column 'presentation_folder'
     for row in reader:
