@@ -158,6 +158,12 @@ var layerControl = L.control.layers(baseMaps, overlayMaps, { position: 'bottomle
 
 let CurrentPoint; //initialize variable that will hold the current point value
 
+//close the sidebar when "X" is clicked
+function closeSidebar(){
+    let SB = document.getElementById("sidebar");
+    SB.style.display = "none";
+  }
+
 //actions upon marker click
 function PointActions (feature, layer) {
 
