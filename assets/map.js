@@ -1,9 +1,9 @@
 
-//init map w two base tile layers
-var map = L.map('map');
-                
-//map loc on load
-map.setView([16.23866202852162, -2.362826680216191], 3);
+//init map
+const map = L.map('map', {
+    center: [16.23866202852162, -2.362826680216191],
+    zoom: 3
+});
 
 //define wtopo (topographic w labels) tile layer
 var wtopo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
@@ -33,7 +33,7 @@ wphys.addTo(map);
 //}).addTo(map);
 
 //define and draw 1400 layer markers with color swatch            
-var fourLayer = L.geoJson(bsr_06062023, {
+var fourLayer = L.geoJson(testset1, {
 
 filter: function(feature, layer) {
     return (feature.properties["century"] === "1400");},
@@ -50,7 +50,7 @@ pointToLayer: function(feature, latlng) {
 fourLayer.addTo(map);
 
 //define and draw 1500 layer markers with color swatch            
-var fiveLayer = L.geoJson(bsr_06062023, {
+var fiveLayer = L.geoJson(testset1, {
 
 filter: function(feature, layer) {
     return (feature.properties["century"] === "1500");},
@@ -67,7 +67,7 @@ pointToLayer: function(feature, latlng) {
 fiveLayer.addTo(map);
 
 //define and draw 1600 layer markers with color swatch            
-var sixLayer = L.geoJson(bsr_06062023, {
+var sixLayer = L.geoJson(testset1, {
 
 filter: function(feature, layer) {
     return (feature.properties["century"] === "1600");},
@@ -85,7 +85,7 @@ pointToLayer: function(feature, latlng) {
 sixLayer.addTo(map);
 
 //define and draw 1700 layer markers with color swatch            
-var sevenLayer = L.geoJson(bsr_06062023, {
+var sevenLayer = L.geoJson(testset1, {
 
 filter: function(feature, layer) {
     return (feature.properties["century"] === "1700");},
@@ -103,7 +103,7 @@ pointToLayer: function(feature, latlng) {
 sevenLayer.addTo(map);
 
 //define and draw 1800 layer markers with color swatch            
-var eightLayer = L.geoJson(bsr_06062023, {
+var eightLayer = L.geoJson(testset1, {
 
 filter: function(feature, layer) {
     return (feature.properties["century"] === "1800");},
@@ -120,7 +120,7 @@ pointToLayer: function(feature, latlng) {
 eightLayer.addTo(map);
 
 //define and draw 1900+ layer markers with color swatch            
-var nineLayer = L.geoJson(bsr_06062023, {
+var nineLayer = L.geoJson(testset1, {
 
 filter: function(feature, layer) {
     return (feature.properties["century"] === "1900");},
