@@ -20,18 +20,7 @@ maxZoom: 8
 
 wphys.addTo(map);
 
-//bring in the geojson data
-//var revoltsData = L.geoJSON(bsr_06062023, {
-//    onEachFeature: function(feature, layer) {
-//    layer.bindPopup(feature.properties.name)
-//    },
-//    style: {
-//        fillColor: 'red',
-//        fillOpacity: 1,
-//        color: '#c0c0c0'
-//    }
-//}).addTo(map);
-
+    
 //define and draw 1400 layer markers with color swatch            
 var fourLayer = L.geoJson(testset1, {
 
@@ -194,18 +183,12 @@ function PointActions (feature, layer) {
 
         //display point features in their respective divs
         layer.on('click', function (e) {
-        document.getElementById("sidebar-place").innerHTML = '<h2>' + feature.properties["place"] + '</h2>';
-        document.getElementById("sidebar-year").innerHTML = '<h3><i>' + feature.properties["year_to_display"] + '</i></h3>';
-        document.getElementById("sidebar-name").innerHTML = '<h4>' + feature.properties["revolt_name"] + '</h4>';
-        document.getElementById("sidebar-desc").innerHTML = feature.properties["encoded_description"];
+        document.getElementById("sidebar-place").innerHTML = feature.properties["place"] + " (" + feature.properties["latitude"] + ", " + feature.properties["longitude"] + ") ";
+        document.getElementById("sidebar-year").innerHTML = feature.properties["year_to_display"];
+        document.getElementById("sidebar-name").innerHTML = feature.properties["revolt_name"];
+        document.getElementById("sidebar-desc").innerHTML = feature.properties["description"];
+        document.getElementById("sidebar-sources").innerHTML = feature.properties["citations"];
         });
-        
-        //layer.on('click', function (e) {
-        //let SB = document.getElementById("sidebar");
-        //    SB.innerHTML = '<html>' + '<h4 style="margin-top: 1rem; margin-bottom: 1rem;"><strong>' + feature.properties["place"] +
-        //    '</strong></h4>' + '<h5 style="margin-top: 0rem;"><i>' + feature.properties["year_to_display"] + '</i></h5><h3>' + feature.properties["revolt_name"] +'</h3>'
-        //+ '<h2 style="text-align: left;">' + feature.properties["encoded_description"] + '</h2>' + '</html>';
-        //});
 
         layer.on('click', function(e) {
             map.setView(e.latlng, 6);

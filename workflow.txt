@@ -1,8 +1,0 @@
-Workflow
-
-- download latest CSV from Box folder 
-- convert it to GeoJSON (for example by pasting/uploading to this website: https://open-innovations.github.io/CSV2GeoJSON/)
-- download and save the GeoJSON file to the computer
-- copy or move the GeoJSON file to this "data" directory
-- make a copy of GeoJSON file in this directory and rename it with .js file extension.
-- inside new .js copy of file, define a var before the brackets (ex. var pointsJson = )

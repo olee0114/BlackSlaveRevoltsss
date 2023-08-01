@@ -1,0 +1,87 @@
+body {
+    background-color: black;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    border-radius: 3px;
+    font-size: 2.5em;
+    text-align: center;
+    padding: 5%;
+    background-color: white;
+    margin: 1%;
+}
+
+.menu {
+    border-radius: 3px;
+    background-color: #30502a;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 50px;
+    padding: 1% 0;
+    margin: 0 1%;
+}
+
+.menu a {
+    color: #dd9a2e;
+}
+
+
+.splash {
+    background-color: black;
+    display:flex;
+    justify-content: space-evenly;
+    margin:1%;
+    gap: 1%;
+}
+
+.textbox {
+    border-radius: 3px;
+    background-color: #dd9a2e;
+    color: black;
+    padding: 2%;
+    justify-content: center;
+}
+
+.static {
+    border-radius: 3px;
+    height: 85vh;
+    width: auto;
+}
+
+.mapcontainer {
+    border-radius: 3px;
+    height: 85vh;
+    width: auto;
+    margin:1%;
+    display: flex;
+    background-color: black;
+}
+
+#map {
+    height: 85vh;
+    width: 100%;
+    z-index: 9998;
+    margin: auto 0px;
+    border-radius: 3px;
+  }
+
+#sidebar {
+    border-left: 2px solid black;
+    width: 40%;
+    border-radius: 3px;
+    z-index:9999;
+    background-color: #dd9a2e;
+    color: black;
+    padding: 2%;
+    justify-content: center;
+    overflow: scroll;
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+}
