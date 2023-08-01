@@ -58,7 +58,7 @@ def files_download(folder_id, dest_dir, creds):
             print('No files found.')
         else:
             for item in items:
-                #print(u'{0} ({1}) {2}'.format(item['name'], item['id'], item['mimeType']))
+                print(u'{0} ({1}) {2}'.format(item['name'], item['id'], item['mimeType']))
                 mimetype = item['mimeType']
 
                 #exclude google apps format and only grab images
@@ -68,7 +68,7 @@ def files_download(folder_id, dest_dir, creds):
                     request = service.files().get_media(fileId=file_id)
 
                     #download stuff to this directory with this file name
-                    with open(dest_dir + '/' + item['name'], 'wb') as fh:
+                    with open(dest_dir + '/' + id_to_dir + "_" + item['name'], 'wb') as fh:
                         downloader = MediaIoBaseDownload(fh, request)
                         done = False
                         while done is False:
@@ -83,7 +83,7 @@ def files_download(folder_id, dest_dir, creds):
 creds = api_login()
 
 #read csv
-with open('bsr_06122023_limited.csv', encoding='utf-8-sig') as csvfile:
+with open('bsr_06132023_limited_testset.csv', mode= 'r', encoding='utf-8-sig') as csvfile:
     reader = csv.DictReader(csvfile)
     #loop: read whether the row has an entry in column 'presentation_folder'
     for row in reader:
@@ -97,7 +97,7 @@ with open('bsr_06122023_limited.csv', encoding='utf-8-sig') as csvfile:
             folder_id = str(presentation_folder).rsplit('/', 1)[1]
             folder_id = str(folder_id).split('?', 1)[0]
             id_to_dir = row['unique_identifier']
-            dest_dir = my_directory + '/media/' + id_to_dir
+            dest_dir = my_directory + '/assets/imgs/' + id_to_dir
             if not os.path.exists(dest_dir):
                 os.mkdir(dest_dir)
             files_download(folder_id, dest_dir, creds)

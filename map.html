@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -10,68 +9,42 @@
         <!--import jquery -->
         <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
         
-        <!--geojson data-->
-        <script src="/assets/data/bsr_06062023_limited.geojson" type="text/javascript"></script>
-        <script src="/assets/data/bsr_06062023_limited.js" type="text/javascript"></script>
-
+        <!--data-->
+        <script src="/assets/data/20230613_bsr_limited_testset1.geojson" type="text/javascript"></script>
+        <script src="/assets/data/20230613_bsr_limited_testset1.js" type ="text/javascript"></script>
+        
         <!--stylesheets & js-->
-        <link rel="stylesheet" href="/assets/styles.css" />
-        <link rel="stylesheet" href="/assets/sidebar-style.css">
+        <link rel="stylesheet" href="/assets/style.css" />
         <script src="/assets/map.js" defer></script>
 
         <meta charset="UTF-8">
         <meta name="viewport" content="width-device width, initial scale=1.0">
         <title>Black Slave Revolts</title>
-
-        <style>
-            body {
-                margin: 100;
-                padding: 100;
-            }
-            #map {
-                width: 100%;
-                height: 100vh;
-            }
-        </style>
     </head>
 <body>
-    <header style="text-align: center;">
-        <h1 style="padding-top: 20px; margin-bottom: 0px;"> Black Slave Revolts Map</h1>
-    </header>
-
-    <main class="tour">
-    <div id="wrap M-container">
-        
-
-        <div id="map">
+    <div class="container">
+        <div class="header">Black Slave Revolts</div>
+        <div class="menu">
+            <a href="/index.html">Home</a>
+            <a href="/map.html">Map Tour</a>
+            <a href="/about.html">About</a>
+            <a href="/credits.html">Credits</a>
+        </div>
+        <div class="mapcontainer">
+            <div id="map"></div>
             <div id="sidebar" style="display: none;">
-                <img class="close" src="/assets/imgs/noun-x.svg" onclick="closeSidebar()" width="30px" height="30px">
-                <div id="sidebar-place"></div>
-                <div id="sidebar-year"></div>
-                <div id="sidebar-name"></div>
-                <div id="sidebar-desc"></div>
+                <div class="close" style="margin-bottom: 1%;">
+                    <img class="close" src="/assets/imgs/noun-x.svg" onclick="closeSidebar()" width="30px" height="30px">
+                </div>
+                <b>Location: </b><span id="sidebar-place"></span>
+                <br /><b>Year(s): </b><span id="sidebar-year"></span>
+                <br /><b>Name of revolt: </b><span id="sidebar-name"></span>
+                <hr />
+                <b>Description </b><div id="sidebar-desc"></div>
+                <br /><b>Sources </b><div id="sidebar-sources"></div>
             </div>
-        </div>                        
+        </div>
     </div>
-    </main>
-
-    <footer class="footer" style="text-align: center;">
-        <div style="margin-top: 0px; padding-top: 0px;">
-            <h3 style="margin-top: 0px; padding-top: 0px;">Quick Links</h3>
-        </div>
-        <div class="links box-b">
-          <a class="a" href="/index">Home</a>
-          <span class="divider"></span>
-          <span class="divider"></span>
-          <a class="a" href="/map">Map Tour</a>
-          <span class="divider"></span>
-          <span class="divider"></span>
-          <a class="a" href="/about">About</a>
-          <span class="divider"></span>
-          <span class="divider"></span>
-          <a class="a" href="/credits">Credits</a>
-        </div>
-    </footer>
 
 </body>
 </html>
